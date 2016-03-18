@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="imported_detail" hid="1165462577" class_name="com.starcomsoft.pp.order.edi.ImportedDetail" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="86810730" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="2111964839" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="258257507" jdbc_type="4"/>
+	   			<column property="messageId" name="message_id" hid="1458448470" jdbc_type="4"/>
+	   			<column property="documentId" name="document_id" hid="1643933300" jdbc_type="4"/>
+	   			<column property="partNumberSKU" name="part_number_sku" hid="1425576658" jdbc_type="12"/>
+	   			<column property="partNumberUPC" name="part_number_upc" hid="1425576847" jdbc_type="12"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="129027167" jdbc_type="4"/>
+	   			<column property="orderQty" name="order_qty" hid="976906398" jdbc_type="4"/>
+	   			<column property="requestedQty" name="requested_qty" hid="619481440" jdbc_type="4"/>
+	   			<column property="itemPrice" name="item_price" hid="1862338658" jdbc_type="8"/>
+	   			<column property="requestedPrice" name="requested_price" hid="1361602589" jdbc_type="8"/>
+	   			<column property="itemPackageId" name="item_package_id" hid="137050871" jdbc_type="4"/>
+	   			<column property="packageCode" name="package_code" hid="1531715961" jdbc_type="12"/>
+	   			<column property="requestedPackageCount" name="requested_package_count" hid="263189438" jdbc_type="4"/>
+	   			<column property="customerSequenceNumber" name="customer_sequence_number" hid="1142167587" jdbc_type="4"/>
+	   			<column property="categoryCode" name="category_code" hid="1133713177" jdbc_type="12"/>
+	   			<column property="systemPrice" name="system_price" hid="1148030018" jdbc_type="8"/>
+</table_column>

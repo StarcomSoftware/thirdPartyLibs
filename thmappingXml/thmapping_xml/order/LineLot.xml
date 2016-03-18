@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="line_lot" hid="1053113057" class_name="com.starcomsoft.pp.order.LineLot" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="597187258" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1621088297" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="299761517" jdbc_type="4"/>
+	   			<column property="orderLineId" name="order_line_id" hid="1952987216" jdbc_type="4"/>
+	   			<column property="inventoryLotId" name="inventory_lot_id" hid="1211842489" jdbc_type="4"/>
+	   			<column property="assignedQty" name="assigned_qty" hid="2061577612" jdbc_type="4"/>
+	   			<column property="status" name="status" hid="1134649043" jdbc_type="4"/>
+	   			<column property="shipDate" name="ship_date" hid="1716009210" jdbc_type="93"/>
+	   			<column property="assignedProductionQty" name="assigned_production_qty" hid="136206794" jdbc_type="4"/>
+	   			<column property="inProcessBatch" name="inprocess_batch" hid="1336392936" jdbc_type="12"/>
+	   			<column property="isReassigned" name="is_reassigned" hid="1239849569" jdbc_type="4"/>
+	   			<column property="isPreassigned" name="is_preassigned" hid="718301873" jdbc_type="4"/>
+</table_column>

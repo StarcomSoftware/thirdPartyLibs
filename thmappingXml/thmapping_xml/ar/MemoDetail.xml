@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="document_detail" hid="2122991372" class_name="com.starcomsoft.pp.ar.MemoDetail" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	<super_class>com.starcomsoft.pp.ar.DocumentDetail</super_class>
+	   			<column property="itemId" name="item_id" hid="1520232753" jdbc_type="4"/>
+	   			<column property="itemCategoryId" name="item_category_id" hid="346508444" jdbc_type="4"/>
+	   			<column property="referencedLineId" name="referenced_line_id" hid="1886013822" jdbc_type="4"/>
+	   			<column property="requestedQty" name="requested_qty" hid="1608191717" jdbc_type="4"/>
+	   			<column property="creditQty" name="credit_qty" hid="1732122716" jdbc_type="4"/>
+	   			<column property="price" name="item_price" hid="148048939" jdbc_type="8"/>
+	   			<column property="creditPrice" name="credit_price" hid="1431989095" jdbc_type="8"/>
+	   			<column property="count" name="package_count" hid="1889250464" jdbc_type="4"/>
+	   			<column property="distributionType" name="distribution_type" hid="759721051" jdbc_type="4"/>
+	   			<column property="each" name="each_count" hid="1767039165" jdbc_type="4"/>
+	   			<column property="adjustmentPercent" name="adjustment_percent" hid="958837069" jdbc_type="8"/>
+	   			<column property="brokerDiscountPercent" name="broker_discount_percent" hid="1882266001" jdbc_type="8"/>
+	   			<column property="isDetail" name="is_detail" hid="1406743730" jdbc_type="4"/>
+</table_column>

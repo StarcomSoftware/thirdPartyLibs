@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="imported_message" hid="1904017539" class_name="com.starcomsoft.pp.order.edi.ImportedMessage" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="393400952" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1553098601" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1404321541" jdbc_type="4"/>
+	   			<column property="name" name="name" hid="1800701556" jdbc_type="12"/>
+	   			<column property="documentData" name="document_data" hid="1160672411" jdbc_type="-1"/>
+	   			<column property="originalMessage" name="original_message" hid="722309764" jdbc_type="-1"/>
+</table_column>

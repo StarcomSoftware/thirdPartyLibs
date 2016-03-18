@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="item_warehouse" hid="1865733460" class_name="com.starcomsoft.pp.purchasing.ItemWarehouse" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="800555945" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1625745714" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1597677630" jdbc_type="4"/>
+	   			<column property="warehouseId" name="warehouse_id" hid="1492499075" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="303312220" jdbc_type="4"/>
+	   			<column property="defaultAreaId" name="default_area_id" hid="1709393211" jdbc_type="4"/>
+</table_column>

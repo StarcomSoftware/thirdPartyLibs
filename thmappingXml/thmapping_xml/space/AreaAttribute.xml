@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="area_attribute" hid="1644832511" class_name="com.starcomsoft.pp.space.AreaAttribute" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="87448260" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1189424133" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="885274143" jdbc_type="4"/>
+	   			<column property="areaId" name="area_id" hid="1178932220" jdbc_type="4"/>
+	   			<column property="spaceAttributeId" name="space_attribute_id" hid="311454890" jdbc_type="4"/>
+</table_column>

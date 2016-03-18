@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="delivery" hid="1012647919" class_name="com.starcomsoft.pp.order.Delivery" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="420103860" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1010463371" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="272520273" jdbc_type="4"/>
+	   			<column property="deliveryDate" name="delivery_date" hid="1102939128" jdbc_type="93"/>
+	   			<column property="vehicleId" name="vehicle_id" hid="2053061555" jdbc_type="4"/>
+	   			<column property="driverId" name="driver_id" hid="960446857" jdbc_type="4"/>
+	   			<column property="carrierId" name="carrier_id" hid="1132216821" jdbc_type="4"/>
+	   			<column property="loadNumber" name="load_number" hid="41681943" jdbc_type="4"/>
+	   			<column property="miles" name="miles" hid="1313075585" jdbc_type="4"/>
+	   			<column property="loadDate" name="load_date" hid="635785716" jdbc_type="93"/>
+	   			<column property="priority" name="priority" hid="526576263" jdbc_type="4"/>
+	   			<column property="departFacilityId" name="depart_facility_id" hid="1662071263" jdbc_type="4"/>
+	   			<column property="returnFacilityId" name="return_facility_id" hid="1909230897" jdbc_type="4"/>
+	   			<column property="cost" name="cost" hid="331328040" jdbc_type="8"/>
+	   			<column property="trailerNumber" name="trailer_number" hid="345058770" jdbc_type="12"/>
+	   			<column property="isConfirmed" name="is_confirmed" hid="1041215009" jdbc_type="4"/>
+</table_column>

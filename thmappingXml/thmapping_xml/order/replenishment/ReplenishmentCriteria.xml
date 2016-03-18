@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="replenishment_criteria" hid="1069763987" class_name="com.starcomsoft.pp.order.replenishment.ReplenishmentCriteria" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="751538072" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1977320441" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1140108651" jdbc_type="4"/>
+	   			<column property="criteriaName" name="criteria_name" hid="1919072050" jdbc_type="12"/>
+	   			<column property="beginDate" name="begin_date" hid="858620243" jdbc_type="93"/>
+	   			<column property="numberOfWeeks" name="number_of_weeks" hid="1350511310" jdbc_type="4"/>
+	   			<column property="companyId" name="company_id" hid="8968818" jdbc_type="4"/>
+	   			<column property="customerIdString" name="customer_id_string" hid="318490871" jdbc_type="-1"/>
+	   			<column property="productCodeIdString" name="product_code_id_string" hid="1437753256" jdbc_type="-1"/>
+	   			<column property="facilityIdString" name="facility_id_string" hid="828203778" jdbc_type="-1"/>
+	   			<column property="shipZoneIdString" name="ship_zone_id_string" hid="1904555604" jdbc_type="-1"/>
+	   			<column property="marketIdString" name="market_id_string" hid="883578681" jdbc_type="-1"/>
+	   			<column property="groupIdString" name="group_id_string" hid="1904334702" jdbc_type="-1"/>
+</table_column>

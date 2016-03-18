@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="consignment_adjustment" hid="645708334" class_name="com.starcomsoft.pp.customer.ConsignmentAdjustment" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="762768547" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="594292164" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1374032040" jdbc_type="4"/>
+	   			<column property="consignmentId" name="consignment_id" hid="212883361" jdbc_type="4"/>
+	   			<column property="sku" name="sku" hid="1725016679" jdbc_type="12"/>
+	   			<column property="upc" name="upc" hid="1725016490" jdbc_type="12"/>
+	   			<column property="gtin" name="gtin" hid="1654711056" jdbc_type="12"/>
+	   			<column property="previousOnHandQty" name="previous_onhand" hid="1535989738" jdbc_type="4"/>
+	   			<column property="adjustmentQty" name="adjustment_qty" hid="1671974362" jdbc_type="4"/>
+	   			<column property="newOnHandQty" name="new_onhand" hid="1761951055" jdbc_type="4"/>
+	   			<column property="adjustmentType" name="adjustment_type" hid="2132097314" jdbc_type="4"/>
+	   			<column property="reasonId" name="reason_id" hid="1074207942" jdbc_type="4"/>
+	   			<column property="username" name="username" hid="1051776570" jdbc_type="12"/>
+	   			<column property="source" name="source" hid="888295207" jdbc_type="4"/>
+	   			<column property="batchId" name="batch_id" hid="1151436172" jdbc_type="4"/>
+	   			<column property="detailId" name="detail_id" hid="1667868363" jdbc_type="4"/>
+	   			<column property="timestamp" name="timestamp" hid="963401190" jdbc_type="93"/>
+	   			<column property="customerId" name="customer_id" hid="809716148" jdbc_type="4"/>
+	   			<column property="recordedBy" name="recorded_by" hid="1043495664" jdbc_type="12"/>
+	   			<column property="recordedDate" name="recorded_date" hid="1376197795" jdbc_type="93"/>
+</table_column>

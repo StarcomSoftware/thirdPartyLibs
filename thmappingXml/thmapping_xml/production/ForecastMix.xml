@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="forecast_mix" hid="573744335" class_name="com.starcomsoft.pp.production.ForecastMix" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="771348076" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="803443541" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="840989745" jdbc_type="4"/>
+	   			<column property="forecastGoalId" name="forecast_goal_id" hid="1244275836" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="532843520" jdbc_type="4"/>
+	   			<column property="productionMixId" name="production_mix_id" hid="417836937" jdbc_type="4"/>
+	   			<column property="productionHierarchyId" name="production_hierarchy_id" hid="1839306544" jdbc_type="4"/>
+	   			<column property="elementId" name="element_id" hid="460661723" jdbc_type="4"/>
+	   			<column property="mix" name="mix" hid="1647802397" jdbc_type="4"/>
+	   			<column property="isMixLocked" name="is_mix_locked" hid="714687601" jdbc_type="4"/>
+	   			<column property="qty" name="qty" hid="1647802821" jdbc_type="4"/>
+	   			<column property="isQtyLocked" name="is_qty_locked" hid="1552300839" jdbc_type="4"/>
+	   			<column property="minimumQty" name="minimum_qty" hid="1484130224" jdbc_type="4"/>
+	   			<column property="isAllChildrenLocked" name="is_all_children_locked" hid="482603628" jdbc_type="4"/>
+	   			<column property="isChanged" name="is_changed" hid="1356423148" jdbc_type="4"/>
+	   			<column property="forecastDetailId" name="forecast_detail_id" hid="1834641332" jdbc_type="4"/>
+	   			<column property="isAllPlanted" name="is_all_planted" hid="401846214" jdbc_type="4"/>
+	   			<column property="growMethodId" name="grow_method_id" hid="463924194" jdbc_type="4"/>
+	   			<column property="parentId" name="parent_id" hid="958142618" jdbc_type="4"/>
+</table_column>

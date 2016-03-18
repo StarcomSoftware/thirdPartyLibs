@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="sales_personnel" hid="2135287424" class_name="com.starcomsoft.pp.order.SalesPersonnel" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1159590549" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1993463042" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="593488566" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="562448525" jdbc_type="12"/>
+	   			<column property="name" name="name" hid="562441559" jdbc_type="12"/>
+	   			<column property="employeeNumber" name="employee_number" hid="1726484944" jdbc_type="12"/>
+	   			<column property="type" name="type" hid="562435214" jdbc_type="4"/>
+	   			<column property="commission" name="commission" hid="96736953" jdbc_type="8"/>
+</table_column>

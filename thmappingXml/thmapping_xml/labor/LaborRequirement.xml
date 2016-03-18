@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="labor_requirement" hid="14746451" class_name="com.starcomsoft.pp.labor.LaborRequirement" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1194463576" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="65426503" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="390070699" jdbc_type="4"/>
+	   			<column property="laborInfoId" name="labor_info_id" hid="1363809226" jdbc_type="4"/>
+	   			<column property="forecastId" name="forecast_id" hid="212145346" jdbc_type="4"/>
+	   			<column property="dateRequired" name="date_required" hid="890177103" jdbc_type="93"/>
+	   			<column property="qty" name="qty" hid="2134728791" jdbc_type="8"/>
+	   			<column property="statusId" name="status_id" hid="1070869045" jdbc_type="4"/>
+	   			<column property="plantingId" name="planting_id" hid="1545584100" jdbc_type="4"/>
+</table_column>

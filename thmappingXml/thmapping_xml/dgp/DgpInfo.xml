@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="dgp_info" hid="1013872521" class_name="com.starcomsoft.pp.dgp.DgpInfo" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="519296622" jdbc_type="4"/>
+	   			<column property="company" name="company" hid="2121994304" jdbc_type="12"/>
+	   			<column property="host" name="host" hid="886645265" jdbc_type="12"/>
+	   			<column property="port" name="port" hid="886639442" jdbc_type="4"/>
+	   			<column property="userName" name="user_name" hid="706978656" jdbc_type="12"/>
+	   			<column property="password" name="password" hid="1862950996" jdbc_type="12"/>
+	   			<column property="domain" name="domain" hid="1195936513" jdbc_type="12"/>
+	   			<column property="releaseId" name="release_id" hid="329649918" jdbc_type="-6"/>
+	   			<column property="release" name="release" hid="2114627734" jdbc_type="12"/>
+	   			<column property="wsEndpoint" name="ws_endpoint" hid="1739645501" jdbc_type="-7"/>
+	   			<column property="systemDefault" name="system_default" hid="774982146" jdbc_type="-7"/>
+</table_column>

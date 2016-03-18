@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="item_package" hid="72243237" class_name="com.starcomsoft.pp.inventory.ItemPackage" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1556735946" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1476351749" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="66740087" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="1750597941" jdbc_type="4"/>
+	   			<column property="packageCodeId" name="package_code_id" hid="1737528295" jdbc_type="4"/>
+	   			<column property="description" name="description" hid="440872705" jdbc_type="12"/>
+	   			<column property="isPrimary" name="is_primary" hid="1545550924" jdbc_type="4"/>
+	   			<column property="shippingContainerId" name="shipping_container_id" hid="1772833243" jdbc_type="4"/>
+	   			<column property="packageCount" name="package_count" hid="1092057607" jdbc_type="4"/>
+	   			<column property="quantityPerShelf" name="qty_per_shelf" hid="1093192138" jdbc_type="4"/>
+	   			<column property="multiple" name="multiple" hid="437155087" jdbc_type="4"/>
+	   			<column property="summaryTypeId" name="summary_type_id" hid="1997055736" jdbc_type="4"/>
+	   			<column property="height" name="height" hid="312345270" jdbc_type="8"/>
+	   			<column property="restrictHeight" name="restrict_height" hid="1772694445" jdbc_type="4"/>
+	   			<column property="length" name="length" hid="312585207" jdbc_type="8"/>
+	   			<column property="width" name="width" hid="989243237" jdbc_type="8"/>
+	   			<column property="size" name="size" hid="1541568936" jdbc_type="8"/>
+	   			<column property="weight" name="weight" hid="313231005" jdbc_type="8"/>
+	   			<column property="dimWeight" name="dim_weight" hid="763825186" jdbc_type="8"/>
+	   			<column property="printBoxLabel" name="print_box_label" hid="1807637015" jdbc_type="4"/>
+	   			<column property="printShippingLabel" name="print_shipping_label" hid="929294738" jdbc_type="4"/>
+	   			<column property="printCartLabel" name="print_cart_label" hid="677668498" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="671622503" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="906582902" jdbc_type="4"/>
+</table_column>

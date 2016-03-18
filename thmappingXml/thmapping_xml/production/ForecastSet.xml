@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="forecast_set" hid="573744781" class_name="com.starcomsoft.pp.production.ForecastSet" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="771311950" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1358319581" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="797223905" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="1948239008" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="1755813673" jdbc_type="12"/>
+	   			<column property="isSpecialMaterials" name="is_special_materials" hid="249984714" jdbc_type="4"/>
+	   			<column property="isSpecialLabor" name="is_special_labor" hid="718088896" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="252667643" jdbc_type="4"/>
+	   			<column property="isInventory" name="is_inventory" hid="728795410" jdbc_type="4"/>
+</table_column>

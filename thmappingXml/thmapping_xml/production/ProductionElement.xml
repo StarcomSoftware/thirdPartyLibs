@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="production_element" hid="1238289683" class_name="com.starcomsoft.pp.production.ProductionElement" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1517217560" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1464682361" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="331537941" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="1659431706" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="722392513" jdbc_type="12"/>
+	   			<column property="elementTypeId" name="element_type_id" hid="105784058" jdbc_type="4"/>
+</table_column>

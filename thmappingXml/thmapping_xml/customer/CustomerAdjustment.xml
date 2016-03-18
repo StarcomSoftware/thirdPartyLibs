@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="customer_adjustment" hid="592610827" class_name="com.starcomsoft.pp.customer.CustomerAdjustment" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="756837776" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1386929329" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1062813645" jdbc_type="4"/>
+	   			<column property="adjustmentId" name="adjustment_id" hid="1306212198" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="1262073271" jdbc_type="4"/>
+	   			<column property="type" name="type" hid="1174328541" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="1174315230" jdbc_type="12"/>
+	   			<column property="methodId" name="method_id" hid="285149984" jdbc_type="4"/>
+	   			<column property="factorId" name="factor_id" hid="43624642" jdbc_type="4"/>
+	   			<column property="value" name="value" hid="1979017824" jdbc_type="8"/>
+	   			<column property="amount" name="amount" hid="630132319" jdbc_type="8"/>
+	   			<column property="facilityId" name="facility_id" hid="706782956" jdbc_type="4"/>
+</table_column>

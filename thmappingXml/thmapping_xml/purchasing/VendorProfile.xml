@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="vendor_profile" hid="1638056567" class_name="com.starcomsoft.pp.purchasing.VendorProfile" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="461405294" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1743511233" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="702692485" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="506540779" jdbc_type="4"/>
+	   			<column property="profileId" name="profile_id" hid="1495559946" jdbc_type="4"/>
+	   			<column property="reportColumn" name="report_column" hid="1751389706" jdbc_type="4"/>
+</table_column>

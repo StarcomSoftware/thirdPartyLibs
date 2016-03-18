@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="cart_ship" hid="465414728" class_name="com.starcomsoft.pp.order.CartShip" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="956111651" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="83964794" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="256998994" jdbc_type="4"/>
+	   			<column property="spaceNumber" name="space_number" hid="443634997" jdbc_type="4"/>
+</table_column>

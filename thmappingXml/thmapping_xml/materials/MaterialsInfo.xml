@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="materials_info" hid="378696" class_name="com.starcomsoft.pp.materials.MaterialsInfo" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="30675421" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1115455098" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="715725998" jdbc_type="4"/>
+	   			<column property="growSeasonId" name="grow_season_id" hid="412775829" jdbc_type="4"/>
+	   			<column property="days" name="days" hid="1810260879" jdbc_type="4"/>
+	   			<column property="fromDateId" name="from_date_id" hid="1865995027" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="160519838" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="476532976" jdbc_type="4"/>
+	   			<column property="materialsUofMId" name="materials_u_of_m_id" hid="1878450562" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="923796290" jdbc_type="4"/>
+	   			<column property="laborInfoId" name="labor_info_id" hid="1038153927" jdbc_type="4"/>
+	   			<column property="qty" name="qty" hid="276079702" jdbc_type="8"/>
+	   			<column property="productionQty" name="production_qty" hid="1120220964" jdbc_type="8"/>
+	   			<column property="applyToId" name="apply_to_id" hid="229882828" jdbc_type="4"/>
+	   			<column property="isCombi" name="is_combi" hid="1505122411" jdbc_type="4"/>
+</table_column>

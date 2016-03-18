@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="received_goods" hid="1142516469" class_name="com.starcomsoft.pp.purchasing.ReceivedGoods" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1945445478" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="888044875" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1740877511" jdbc_type="4"/>
+	   			<column property="purchaseDetailId" name="purchase_detail_id" hid="1548936390" jdbc_type="4"/>
+	   			<column property="receiveDate" name="receive_date" hid="2115787165" jdbc_type="93"/>
+	   			<column property="receiveUserId" name="receive_user_id" hid="525601202" jdbc_type="4"/>
+	   			<column property="receiveQty" name="receive_qty" hid="712307269" jdbc_type="4"/>
+	   			<column property="receiveAreaId" name="receive_area_id" hid="514900940" jdbc_type="4"/>
+	   			<column property="receiveItemId" name="receive_item_id" hid="519279314" jdbc_type="4"/>
+	   			<column property="receiveCodeId" name="receive_code_id" hid="515783030" jdbc_type="4"/>
+	   			<column property="productionLotId" name="production_lot_id" hid="1834258810" jdbc_type="4"/>
+	   			<column property="payablesDetailId" name="payables_detail_id" hid="1363987420" jdbc_type="4"/>
+</table_column>

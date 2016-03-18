@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="profile" hid="119677844" class_name="com.starcomsoft.pp.customer.Profile" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1103971817" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="573987470" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1131898754" jdbc_type="4"/>
+	   			<column property="textInfo" name="text_info" hid="668740484" jdbc_type="12"/>
+	   			<column property="customerId" name="customer_id" hid="884827306" jdbc_type="4"/>
+	   			<column property="numericInfo" name="numeric_info" hid="1990452358" jdbc_type="4"/>
+	   			<column property="profileInfoId" name="profile_info_id" hid="1393668948" jdbc_type="4"/>
+</table_column>

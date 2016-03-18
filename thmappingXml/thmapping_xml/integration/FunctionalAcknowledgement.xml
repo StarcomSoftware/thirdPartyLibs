@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="functional_ack" hid="553304428" class_name="com.starcomsoft.pp.integration.FunctionalAcknowledgement" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1867986753" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="592508790" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="55678442" jdbc_type="4"/>
+	   			<column property="sender" name="sender" hid="1974889987" jdbc_type="12"/>
+	   			<column property="receiver" name="receiver" hid="1057720679" jdbc_type="12"/>
+	   			<column property="type" name="type" hid="983082462" jdbc_type="4"/>
+	   			<column property="value" name="value" hid="257803113" jdbc_type="12"/>
+	   			<column property="transDate" name="trans_date" hid="1554074929" jdbc_type="93"/>
+</table_column>

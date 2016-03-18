@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="production_mix" hid="1074422151" class_name="com.starcomsoft.pp.production.ProductionMix" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1128849356" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="459002291" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="2088073303" jdbc_type="4"/>
+	   			<column property="forecastGroupId" name="forecast_group_id" hid="712064094" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="1357198856" jdbc_type="4"/>
+	   			<column property="mixCodeId" name="mix_code_id" hid="349114277" jdbc_type="4"/>
+	   			<column property="elementId" name="element_id" hid="1660671907" jdbc_type="4"/>
+	   			<column property="mix" name="mix" hid="1569710101" jdbc_type="4"/>
+	   			<column property="productionHierarchyId" name="production_hierarchy_id" hid="1711574984" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="2097974135" jdbc_type="4"/>
+</table_column>

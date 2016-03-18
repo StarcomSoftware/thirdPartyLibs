@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="space_level" hid="296869322" class_name="com.starcomsoft.pp.space.SpaceLevel" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1723389739" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="506604028" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="2049554416" jdbc_type="4"/>
+	   			<column property="spaceProfileId" name="space_profile_id" hid="120813546" jdbc_type="4"/>
+	   			<column property="level" name="level" hid="2074267010" jdbc_type="4"/>
+	   			<column property="days" name="days" hid="2139354593" jdbc_type="4"/>
+	   			<column property="spacingSize" name="spacing_size" hid="1346802493" jdbc_type="8"/>
+	   			<column property="qtyPerSpace" name="qty_per_space" hid="1218955403" jdbc_type="4"/>
+	   			<column property="standardCost" name="standard_cost" hid="98241865" jdbc_type="8"/>
+	   			<column property="units" name="units" hid="2074202311" jdbc_type="8"/>
+</table_column>

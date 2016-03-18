@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="inventory_export_criteria" hid="1885617524" class_name="com.starcomsoft.pp.inventory.exports.InventoryExportCriteria" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1883804257" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1407381674" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="284733386" jdbc_type="4"/>
+	   			<column property="criteriaName" name="criteria_name" hid="1063696785" jdbc_type="12"/>
+	   			<column property="dateType" name="date_type" hid="1534969275" jdbc_type="4"/>
+	   			<column property="beginDate" name="begin_date" hid="267846326" jdbc_type="93"/>
+	   			<column property="endDate" name="end_date" hid="295956856" jdbc_type="93"/>
+	   			<column property="facilityIdString" name="facility_id_string" hid="1066825803" jdbc_type="-1"/>
+	   			<column property="areaIdString" name="area_id_string" hid="709016953" jdbc_type="-1"/>
+	   			<column property="categoryIdString" name="category_id_string" hid="1959539268" jdbc_type="-1"/>
+	   			<column property="hideOnhand" name="hide_onhand" hid="1044027995" jdbc_type="4"/>
+</table_column>

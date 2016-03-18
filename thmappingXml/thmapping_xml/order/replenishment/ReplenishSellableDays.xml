@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="replenish_sellable_days" hid="857360896" class_name="com.starcomsoft.pp.order.replenishment.ReplenishSellableDays" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="726756885" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1038110082" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="759899338" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="908182838" jdbc_type="4"/>
+	   			<column property="productCodeId" name="product_code_id" hid="2015355519" jdbc_type="4"/>
+	   			<column property="asOfDate" name="as_of_date" hid="95470149" jdbc_type="93"/>
+	   			<column property="sellableDays" name="sellable_days" hid="859793892" jdbc_type="4"/>
+</table_column>

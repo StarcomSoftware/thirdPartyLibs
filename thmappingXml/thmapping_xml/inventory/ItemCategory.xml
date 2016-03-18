@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="item_category" hid="588980263" class_name="com.starcomsoft.pp.inventory.ItemCategory" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="462762092" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1064642541" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="644257975" jdbc_type="4"/>
+	   			<column property="categoryCode" name="category_code" hid="231197695" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="1158633677" jdbc_type="12"/>
+	   			<column property="itemProgramId" name="item_program_id" hid="835775281" jdbc_type="4"/>
+	   			<column property="inventoryMethod" name="inventory_method" hid="817978003" jdbc_type="4"/>
+	   			<column property="sellWindowMethod" name="sell_window_method" hid="2147252990" jdbc_type="4"/>
+	   			<column property="seasonGroupId" name="season_group_id" hid="1849334504" jdbc_type="4"/>
+	   			<column property="costMethod" name="cost_method" hid="699836160" jdbc_type="4"/>
+	   			<column property="isContractGrown" name="is_contract_grown" hid="1788666580" jdbc_type="4"/>
+	   			<column property="isBatchTracked" name="is_batch_tracked" hid="2041598729" jdbc_type="4"/>
+	   			<column property="autoBatchSelect" name="auto_batch_select" hid="1323533768" jdbc_type="4"/>
+	   			<column property="autoOverSell" name="auto_over_sell" hid="1717480082" jdbc_type="4"/>
+	   			<column property="purchaseMethodId" name="purchase_method_id" hid="1655905922" jdbc_type="4"/>
+	   			<column property="isVendorLotManaged" name="is_vendor_lot_managed" hid="1686016578" jdbc_type="4"/>
+	   			<column property="retainSubstitutedItem" name="retain_substituted_item" hid="1944393799" jdbc_type="4"/>
+	   			<column property="accumulateAvailable" name="accumulate_available" hid="1613828549" jdbc_type="4"/>
+</table_column>

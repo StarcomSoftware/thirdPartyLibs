@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="materials_requirement" hid="1504996989" class_name="com.starcomsoft.pp.materials.MaterialsRequirement" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1645672866" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1709801619" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="397041039" jdbc_type="4"/>
+	   			<column property="materialsInfoId" name="materials_info_id" hid="1823866158" jdbc_type="4"/>
+	   			<column property="forecastId" name="forecast_id" hid="891743656" jdbc_type="4"/>
+	   			<column property="dateRequired" name="date_required" hid="103065365" jdbc_type="93"/>
+	   			<column property="totalRequiredQty" name="total_required_qty" hid="860882654" jdbc_type="8"/>
+	   			<column property="adjustedInventoryQty" name="adjusted_inventory_qty" hid="2091537835" jdbc_type="8"/>
+	   			<column property="completedRequiredQty" name="completed_required_qty" hid="1026488231" jdbc_type="8"/>
+	   			<column property="statusId" name="status_id" hid="988688069" jdbc_type="4"/>
+	   			<column property="plantingId" name="planting_id" hid="2069784886" jdbc_type="4"/>
+	   			<column property="buyInPercent" name="buy_in_percent" hid="786667941" jdbc_type="4"/>
+</table_column>

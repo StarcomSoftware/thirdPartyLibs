@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="inventory_item" hid="261494785" class_name="com.starcomsoft.pp.inventory.InventoryItem" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="293759940" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1134402299" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1663136481" jdbc_type="4"/>
+	   			<column property="itemTypeId" name="item_type_id" hid="1224613701" jdbc_type="4"/>
+	   			<column property="itemCode" name="item_code" hid="2107495152" jdbc_type="12"/>
+	   			<column property="itemDescription" name="item_description" hid="2084254983" jdbc_type="12"/>
+	   			<column property="shortDescription" name="short_description" hid="226935602" jdbc_type="12"/>
+	   			<column property="scientificName" name="scientific_name" hid="427544344" jdbc_type="12"/>
+	   			<column property="itemCategoryId" name="item_category_id" hid="1516350247" jdbc_type="4"/>
+	   			<column property="itemClassId" name="item_class_id" hid="1774379407" jdbc_type="4"/>
+	   			<column property="primaryFacilityId" name="primary_facility_id" hid="311577709" jdbc_type="4"/>
+	   			<column property="committedItemId" name="committed_item_id" hid="1051721095" jdbc_type="4"/>
+	   			<column property="priceGroupId" name="price_group_id" hid="1818195166" jdbc_type="4"/>
+	   			<column property="defaultKitId" name="default_kit_id" hid="554697809" jdbc_type="4"/>
+	   			<column property="qtyBreakGroupId" name="qty_break_group_id" hid="1149011839" jdbc_type="4"/>
+	   			<column property="commissionGroupId" name="commission_group_id" hid="1510807816" jdbc_type="4"/>
+	   			<column property="sellWindow" name="sell_window" hid="1802124906" jdbc_type="4"/>
+	   			<column property="eachCount" name="each_count" hid="592204040" jdbc_type="4"/>
+	   			<column property="flatMultiplier" name="flat_multiplier" hid="1153913332" jdbc_type="4"/>
+	   			<column property="oversellControl" name="oversell_control" hid="978220123" jdbc_type="4"/>
+	   			<column property="upcId" name="upc_id" hid="1080481333" jdbc_type="4"/>
+	   			<column property="summaryPrintCodeId" name="summary_print_code_id" hid="1339470737" jdbc_type="4"/>
+	   			<column property="speculativePercent" name="speculative_percent" hid="2064279004" jdbc_type="8"/>
+	   			<column property="minimumStockingQty" name="minimum_stocking_qty" hid="404045695" jdbc_type="4"/>
+	   			<column property="isTaxable" name="is_taxable" hid="1719808411" jdbc_type="4"/>
+	   			<column property="isDiscountable" name="is_discountable" hid="778836657" jdbc_type="4"/>
+	   			<column property="isActive" name="is_active" hid="2098853262" jdbc_type="4"/>
+	   			<column property="isWebSite" name="is_web_site" hid="1686418628" jdbc_type="4"/>
+	   			<column property="isPrintBold" name="is_print_bold" hid="1271856849" jdbc_type="4"/>
+	   			<column property="isInventory" name="is_inventory" hid="1453452320" jdbc_type="4"/>
+	   			<column property="isSales" name="is_sales" hid="1675552494" jdbc_type="4"/>
+	   			<column property="isBillOfMaterials" name="is_bill_of_materials" hid="1231458414" jdbc_type="4"/>
+	   			<column property="isPlant" name="is_plant" hid="1675564967" jdbc_type="4"/>
+	   			<column property="isMisc" name="is_misc" hid="1140613354" jdbc_type="4"/>
+	   			<column property="isPurchaseOrder" name="is_purchase_order" hid="717901864" jdbc_type="4"/>
+	   			<column property="imageFile" name="image_file" hid="1464261673" jdbc_type="12"/>
+	   			<column property="temporaryPrice" name="temporary_price" hid="266130732" jdbc_type="8"/>
+	   			<column property="minimumPrice" name="minimum_price" hid="777602269" jdbc_type="8"/>
+	   			<column property="inventoryGLAccountId" name="inventory_gl_account_id" hid="2013251071" jdbc_type="4"/>
+	   			<column property="salesRevenueGLAccountId" name="sales_revenue_gl_account_id" hid="1491867222" jdbc_type="4"/>
+	   			<column property="salesReturnGLAccountId" name="sales_return_gl_account_id" hid="306629000" jdbc_type="4"/>
+	   			<column property="salesDiscountGLAccountId" name="sales_discount_gl_account_id" hid="589229503" jdbc_type="4"/>
+	   			<column property="costGLAccountId" name="cost_gl_account_id" hid="260728250" jdbc_type="4"/>
+	   			<column property="containerSizeId" name="container_size_id" hid="1143463352" jdbc_type="4"/>
+	   			<column property="standardProductionCost" name="standard_production_cost" hid="86096518" jdbc_type="8"/>
+	   			<column property="standardInventoryCost" name="standard_inventory_cost" hid="2014175565" jdbc_type="8"/>
+	   			<column property="defaultVendorId" name="default_vendor_id" hid="196229971" jdbc_type="4"/>
+	   			<column property="defaultWarehouseId" name="default_warehouse_id" hid="495352458" jdbc_type="4"/>
+	   			<column property="isReusable" name="is_reusable" hid="1709094083" jdbc_type="4"/>
+	   			<column property="reuseCostPercent" name="reuse_cost_percent" hid="2067272643" jdbc_type="4"/>
+	   			<column property="isVirtual" name="is_virtual" hid="1721319617" jdbc_type="4"/>
+	   			<column property="qtyPerPallet" name="qty_per_pallet" hid="1563724852" jdbc_type="4"/>
+	   			<column property="confirmLeadDays" name="confirm_lead_days" hid="610109210" jdbc_type="4"/>
+	   			<column property="minimumOrderQty" name="minimum_order_qty" hid="618081701" jdbc_type="4"/>
+	   			<column property="averageCost" name="average_cost" hid="269787662" jdbc_type="8"/>
+	   			<column property="lastReceivedCost" name="last_received_cost" hid="530202465" jdbc_type="8"/>
+	   			<column property="lifoCost" name="lifo_cost" hid="2110294951" jdbc_type="8"/>
+	   			<column property="fifoCost" name="fifo_cost" hid="1926392019" jdbc_type="8"/>
+	   			<column property="transferCost" name="transfer_cost" hid="802958980" jdbc_type="8"/>
+	   			<column property="resaleLeadTime" name="resale_lead_time" hid="1080083714" jdbc_type="4"/>
+	   			<column property="transferLeadTime" name="transfer_lead_time" hid="2110626999" jdbc_type="4"/>
+	   			<column property="isRequiredMsds" name="is_required_msds" hid="1319512471" jdbc_type="4"/>
+	   			<column property="vendorPriceGroupId" name="vendor_price_group_id" hid="172216143" jdbc_type="4"/>
+	   			<column property="averagePrice" name="average_price" hid="1866964956" jdbc_type="8"/>
+	   			<column property="standardShippingCost" name="standard_shipping_cost" hid="1992556129" jdbc_type="8"/>
+	   			<column property="poLeadTime" name="po_lead_time" hid="1090076937" jdbc_type="4"/>
+	   			<column property="expenseGLAccountId" name="expense_gl_account_id" hid="163461055" jdbc_type="4"/>
+	   			<column property="exactMaterials" name="exact_materials" hid="1343550827" jdbc_type="4"/>
+	   			<column property="respectPallet" name="respect_pallet" hid="165948638" jdbc_type="4"/>
+</table_column>

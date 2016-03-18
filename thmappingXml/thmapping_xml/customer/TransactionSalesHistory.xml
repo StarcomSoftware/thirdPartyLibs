@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="rpt_transaction_sales_history" hid="1755186918" class_name="com.starcomsoft.pp.customer.TransactionSalesHistory" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="436220635" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1481211188" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1219767328" jdbc_type="4"/>
+	   			<column property="documentMasterId" name="document_master_id" hid="731126868" jdbc_type="4"/>
+	   			<column property="documentDetailId" name="document_detail_id" hid="362269635" jdbc_type="4"/>
+	   			<column property="documentNumber" name="document_number" hid="1756880421" jdbc_type="4"/>
+	   			<column property="categoryId" name="category_id" hid="345303032" jdbc_type="4"/>
+	   			<column property="categoryCode" name="category_code" hid="2095222998" jdbc_type="12"/>
+	   			<column property="itemId" name="item_id" hid="1475097649" jdbc_type="4"/>
+	   			<column property="itemCode" name="item_code" hid="776177201" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="349059034" jdbc_type="12"/>
+	   			<column property="itemClassId" name="item_class_id" hid="1331010254" jdbc_type="4"/>
+	   			<column property="itemClassCode" name="item_class_code" hid="437645692" jdbc_type="12"/>
+	   			<column property="itemClassDescription" name="item_class_description" hid="706838747" jdbc_type="12"/>
+	   			<column property="quantity" name="quantity" hid="429558085" jdbc_type="4"/>
+	   			<column property="packageId" name="package_id" hid="807063826" jdbc_type="4"/>
+	   			<column property="packageCode" name="package_code" hid="947662948" jdbc_type="12"/>
+	   			<column property="count" name="count" hid="177242247" jdbc_type="4"/>
+	   			<column property="unit" name="unit" hid="974143686" jdbc_type="4"/>
+	   			<column property="amount" name="amount" hid="1595045258" jdbc_type="8"/>
+</table_column>

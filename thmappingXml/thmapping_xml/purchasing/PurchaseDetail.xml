@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="purchase_detail" hid="250430632" class_name="com.starcomsoft.pp.purchasing.PurchaseDetail" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1189956333" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="74353942" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1084951070" jdbc_type="4"/>
+	   			<column property="purchaseMasterId" name="purchase_master_id" hid="954636246" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="352390528" jdbc_type="4"/>
+	   			<column property="itemDescription" name="item_description" hid="309647570" jdbc_type="12"/>
+	   			<column property="itemCategoryId" name="item_category_id" hid="384714496" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="2092689369" jdbc_type="4"/>
+	   			<column property="itemPackageId" name="item_package_id" hid="1288661466" jdbc_type="4"/>
+	   			<column property="packageCount" name="package_count" hid="2051218532" jdbc_type="4"/>
+	   			<column property="orderQty" name="order_qty" hid="1480335489" jdbc_type="4"/>
+	   			<column property="itemPrice" name="item_price" hid="1792288135" jdbc_type="8"/>
+	   			<column property="amount" name="amount" hid="947365156" jdbc_type="8"/>
+	   			<column property="isTaxable" name="is_taxable" hid="1860154876" jdbc_type="4"/>
+	   			<column property="isDiscountable" name="is_discountable" hid="35628896" jdbc_type="4"/>
+	   			<column property="masterCommittedQty" name="master_committed_qty" hid="171747190" jdbc_type="4"/>
+	   			<column property="itemReference" name="item_reference" hid="440610157" jdbc_type="12"/>
+	   			<column property="poLineNoteId" name="po_line_note_id" hid="1610620409" jdbc_type="4"/>
+	   			<column property="requestedQty" name="requested_qty" hid="1962690017" jdbc_type="4"/>
+	   			<column property="assignedAreaId" name="assigned_area_id" hid="1955063378" jdbc_type="4"/>
+	   			<column property="spaceRequired" name="space_required" hid="1431410068" jdbc_type="8"/>
+	   			<column property="discountPercent" name="discount_percent" hid="538924601" jdbc_type="8"/>
+	   			<column property="backOrderQty" name="back_order_qty" hid="1401960943" jdbc_type="4"/>
+	   			<column property="detailStatus" name="detail_status" hid="1765865802" jdbc_type="4"/>
+	   			<column property="manufacturerId" name="manufacturer_id" hid="1540050673" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="1659758898" jdbc_type="4"/>
+</table_column>

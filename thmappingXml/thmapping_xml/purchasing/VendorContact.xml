@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="vendor_contact" hid="1645139516" class_name="com.starcomsoft.pp.purchasing.VendorContact" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="112313575" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="566975966" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1332152878" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="1316616894" jdbc_type="4"/>
+	   			<column property="first" name="first" hid="272223204" jdbc_type="12"/>
+	   			<column property="last" name="last" hid="507461888" jdbc_type="12"/>
+	   			<column property="title" name="title" hid="272131266" jdbc_type="12"/>
+	   			<column property="contactPoint" name="contact_point" hid="915253257" jdbc_type="12"/>
+	   			<column property="type" name="type" hid="507454154" jdbc_type="4"/>
+	   			<column property="departmentId" name="department_id" hid="21272820" jdbc_type="4"/>
+	   			<column property="primaryContact" name="primary_contact" hid="1559718285" jdbc_type="4"/>
+	   			<column property="active" name="active" hid="1844624616" jdbc_type="4"/>
+</table_column>

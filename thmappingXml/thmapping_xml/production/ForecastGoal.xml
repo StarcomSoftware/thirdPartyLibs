@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="forecast_goal" hid="868727732" class_name="com.starcomsoft.pp.production.ForecastGoal" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1647470601" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="490073234" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="368569758" jdbc_type="4"/>
+	   			<column property="forecastGroupId" name="forecast_group_id" hid="265074573" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="539139181" jdbc_type="4"/>
+	   			<column property="modelId" name="model_id" hid="77041905" jdbc_type="4"/>
+	   			<column property="forecastDate" name="forecast_date" hid="754733872" jdbc_type="93"/>
+	   			<column property="forecastQty" name="forecast_qty" hid="870576640" jdbc_type="4"/>
+	   			<column property="isChanged" name="is_changed" hid="542736033" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="1004814026" jdbc_type="4"/>
+	   			<column property="forecastDateMethodId" name="forecast_date_method_id" hid="1782730940" jdbc_type="4"/>
+	   			<column property="status" name="status" hid="1377294128" jdbc_type="4"/>
+</table_column>

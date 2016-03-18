@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="report_catalog" hid="659191345" class_name="com.starcomsoft.pp.report.ReportCatalog" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1854892438" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="704601945" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="242330723" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="77570364" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="124894765" jdbc_type="12"/>
+	   			<column property="type" name="type" hid="77557053" jdbc_type="4"/>
+	   			<column property="parentId" name="parent_id" hid="1516385305" jdbc_type="4"/>
+</table_column>

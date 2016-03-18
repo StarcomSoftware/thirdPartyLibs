@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="price_group" hid="1048096934" class_name="com.starcomsoft.pp.inventory.PriceGroup" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1003495311" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="2033612808" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="484485556" jdbc_type="4"/>
+	   			<column property="priceGroupCode" name="price_group_code" hid="1487987989" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="296309970" jdbc_type="12"/>
+	   			<column property="qtyBreakBy" name="qty_break_by" hid="107068022" jdbc_type="4"/>
+	   			<column property="asOfDateBy" name="as_of_date_by" hid="602856801" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="period_cost_distribution" hid="448068803" class_name="com.starcomsoft.pp.production.PeriodCostDistribution" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1933833630" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="638709933" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1090715727" jdbc_type="4"/>
+	   			<column property="periodCostId" name="period_cost_id" hid="388806964" jdbc_type="4"/>
+	   			<column property="distributionTypeId" name="distribution_type_id" hid="429175190" jdbc_type="4"/>
+	   			<column property="distributionId" name="distribution_id" hid="681016473" jdbc_type="4"/>
+</table_column>

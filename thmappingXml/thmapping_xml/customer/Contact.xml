@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="contact" hid="112594895" class_name="com.starcomsoft.pp.customer.Contact" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="530252948" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="602547797" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="902946609" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="2076483181" jdbc_type="4"/>
+	   			<column property="first" name="first" hid="7336799" jdbc_type="12"/>
+	   			<column property="last" name="last" hid="818923" jdbc_type="12"/>
+	   			<column property="title" name="title" hid="7428737" jdbc_type="12"/>
+	   			<column property="contactPoint" name="contact_point" hid="486046988" jdbc_type="12"/>
+	   			<column property="type" name="type" hid="826657" jdbc_type="4"/>
+	   			<column property="departmentId" name="department_id" hid="407933449" jdbc_type="4"/>
+	   			<column property="primaryContact" name="primary_contact" hid="1965687706" jdbc_type="4"/>
+	   			<column property="active" name="active" hid="65697347" jdbc_type="4"/>
+</table_column>

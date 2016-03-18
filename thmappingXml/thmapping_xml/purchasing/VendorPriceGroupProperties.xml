@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="vendor_price_group_properties" hid="164672421" class_name="com.starcomsoft.pp.purchasing.VendorPriceGroupProperties" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="453563168" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="972359809" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="759918237" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="1448763085" jdbc_type="4"/>
+	   			<column property="vendorPriceGroupId" name="vendor_price_group_id" hid="1290297845" jdbc_type="4"/>
+	   			<column property="earyOrderDiscountPercent" name="early_order_discount_percent" hid="1469694539" jdbc_type="8"/>
+	   			<column property="earlyOrderDays" name="early_order_days" hid="176267565" jdbc_type="4"/>
+</table_column>

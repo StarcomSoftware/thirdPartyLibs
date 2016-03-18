@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="report_option" hid="1357604617" class_name="com.starcomsoft.pp.report.ReportOption" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1703176764" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="61656515" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1681362073" jdbc_type="4"/>
+	   			<column property="reportSettingId" name="report_setting_id" hid="1442686764" jdbc_type="4"/>
+	   			<column property="optionTypeId" name="option_type_id" hid="1889281971" jdbc_type="4"/>
+	   			<column property="value" name="value" hid="370405420" jdbc_type="12"/>
+	   			<column property="intValue" name="int_value" hid="1215813090" jdbc_type="4"/>
+</table_column>

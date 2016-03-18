@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="note_vault" hid="464687388" class_name="com.starcomsoft.pp.customer.NoteVault" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1015026191" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="5127494" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="224575814" jdbc_type="4"/>
+	   			<column property="type" name="type" hid="612732018" jdbc_type="4"/>
+	   			<column property="tag" name="tag" hid="545300160" jdbc_type="12"/>
+	   			<column property="text" name="text" hid="612733551" jdbc_type="-1"/>
+</table_column>

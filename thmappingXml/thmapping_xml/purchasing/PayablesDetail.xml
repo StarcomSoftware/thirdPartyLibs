@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="payables_detail" hid="635203302" class_name="com.starcomsoft.pp.purchasing.PayablesDetail" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="88139045" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="985703732" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1276695584" jdbc_type="4"/>
+	   			<column property="masterId" name="master_id" hid="2126604862" jdbc_type="4"/>
+	   			<column property="expenseAccountId" name="expense_account_id" hid="1258075034" jdbc_type="4"/>
+	   			<column property="amount" name="amount" hid="1539988874" jdbc_type="8"/>
+	   			<column property="typeId" name="type_id" hid="985797628" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="customer_item_property" hid="1844385201" class_name="com.starcomsoft.pp.inventory.CustomerItemProperty" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="928655124" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1978209067" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1390951857" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="491779309" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="1185181103" jdbc_type="4"/>
+	   			<column property="kitCodeId" name="kit_code_id" hid="2096465987" jdbc_type="4"/>
+	   			<column property="type" name="type" hid="2088335455" jdbc_type="4"/>
+	   			<column property="stringValue" name="string_value" hid="344222638" jdbc_type="12"/>
+	   			<column property="intValue" name="int_value" hid="1837747146" jdbc_type="4"/>
+	   			<column property="doubleValue" name="double_value" hid="1982538566" jdbc_type="8"/>
+	   			<column property="dateValue" name="date_value" hid="1854605151" jdbc_type="93"/>
+	   			<column property="booleanValue" name="boolean_value" hid="1735727765" jdbc_type="4"/>
+</table_column>

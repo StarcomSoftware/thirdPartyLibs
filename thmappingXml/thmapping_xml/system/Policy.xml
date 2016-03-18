@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="policy" hid="13275859" class_name="com.starcomsoft.pp.system.Policy" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1075345624" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1295056697" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1367611861" jdbc_type="4"/>
+	   			<column property="roleId" name="role_id" hid="1293470977" jdbc_type="4"/>
+	   			<column property="resourceName" name="resource_name" hid="1518858307" jdbc_type="12"/>
+	   			<column property="isVisible" name="is_visible" hid="1024568452" jdbc_type="4"/>
+	   			<column property="isEnabled" name="is_enabled" hid="1033430159" jdbc_type="4"/>
+	   			<column property="isAllowed" name="is_allowed" hid="1035591482" jdbc_type="4"/>
+	   			<column property="isProtected" name="is_protected" hid="1602360472" jdbc_type="4"/>
+	   			<column property="resourceId" name="resource_id" hid="389921295" jdbc_type="4"/>
+</table_column>

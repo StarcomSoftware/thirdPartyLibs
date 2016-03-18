@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="replenish_demand" hid="1587523557" class_name="com.starcomsoft.pp.order.replenishment.ReplenishDemand" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="259609718" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="948149573" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="2113176265" jdbc_type="4"/>
+	   			<column property="replenishProductWeekId" name="replenish_product_week_id" hid="1206090562" jdbc_type="4"/>
+	   			<column property="projectedQty" name="projected_qty" hid="590756898" jdbc_type="4"/>
+	   			<column property="projectedSellThruPct" name="projected_sell_thru_pct" hid="676545428" jdbc_type="8"/>
+	   			<column property="projectedAmt" name="projected_amt" hid="590755534" jdbc_type="8"/>
+	   			<column property="storeOnHandQty" name="store_on_hand_qty" hid="1290856051" jdbc_type="4"/>
+	   			<column property="storeSellableQty" name="store_sellable_qty" hid="1828902866" jdbc_type="4"/>
+	   			<column property="storeInvDays" name="store_inv_days" hid="1413691194" jdbc_type="4"/>
+	   			<column property="storeGrade" name="store_grade" hid="2107237236" jdbc_type="4"/>
+	   			<column property="storeInvPct" name="store_inv_pct" hid="1111513004" jdbc_type="8"/>
+	   			<column property="allocateQty" name="allocate_qty" hid="438182127" jdbc_type="4"/>
+	   			<column property="requiredQty" name="required_qty" hid="639819235" jdbc_type="4"/>
+	   			<column property="onOrderUnitsQty" name="on_order_units_qty" hid="1978871004" jdbc_type="4"/>
+	   			<column property="onOrderCartsQty" name="on_order_carts_qty" hid="1483859686" jdbc_type="4"/>
+	   			<column property="onOrderAmt" name="on_order_amt" hid="598975338" jdbc_type="8"/>
+	   			<column property="adjUnitsQty" name="adj_units_qty" hid="1746919205" jdbc_type="4"/>
+	   			<column property="adjCartsQty" name="adj_carts_qty" hid="1715811485" jdbc_type="4"/>
+	   			<column property="adjAmt" name="adj_amt" hid="1715810121" jdbc_type="8"/>
+</table_column>

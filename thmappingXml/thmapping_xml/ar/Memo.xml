@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="document_master" hid="2122485395" class_name="com.starcomsoft.pp.ar.Memo" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	<super_class>DocumentMaster</super_class>
+	   			<column property="memoId" name="memo_id" hid="486779287" jdbc_type="4"/>
+	   			<column property="customerReference" name="customer_reference" hid="2008286709" jdbc_type="12"/>
+	   			<column property="placedBy" name="placed_by" hid="929987968" jdbc_type="12"/>
+	   			<column property="salesrepId" name="salesrep_id" hid="414769848" jdbc_type="4"/>
+	   			<column property="purchaseOrderNumber" name="purchase_order_number" hid="2106560245" jdbc_type="12"/>
+	   			<column property="taxAmount" name="tax_amount" hid="963843741" jdbc_type="8"/>
+	   			<column property="gstTaxAmount" name="gst_tax_amount" hid="1385149518" jdbc_type="8"/>
+	   			<column property="tradeDiscountAmount" name="trade_discount_amount" hid="1573967056" jdbc_type="8"/>
+	   			<column property="memoReasonId" name="memo_reason_id" hid="459370126" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="replenish_shipment" hid="186409228" class_name="com.starcomsoft.pp.order.replenishment.ReplenishShipment" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="2080722761" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1523313198" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="882279134" jdbc_type="4"/>
+	   			<column property="replenishProductWeekId" name="replenish_product_week_id" hid="1130331003" jdbc_type="4"/>
+	   			<column property="shipDate" name="ship_date" hid="1045857637" jdbc_type="93"/>
+	   			<column property="receiveDate" name="receive_date" hid="588731580" jdbc_type="93"/>
+	   			<column property="unitsQty" name="units_qty" hid="1161013980" jdbc_type="4"/>
+	   			<column property="cartsQty" name="carts_qty" hid="917919461" jdbc_type="4"/>
+	   			<column property="isAdOrder" name="is_ad_order" hid="2068883967" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="2030161325" jdbc_type="4"/>
+</table_column>

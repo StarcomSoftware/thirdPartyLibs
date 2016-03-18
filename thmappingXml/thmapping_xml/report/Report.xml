@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="report" hid="13331879" class_name="com.starcomsoft.pp.report.Report" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1079883244" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1345959571" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="813854921" jdbc_type="4"/>
+	   			<column property="catalogId" name="report_catalog_id" hid="116337623" jdbc_type="4"/>
+	   			<column property="typeId" name="report_type_id" hid="643698576" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="1571194362" jdbc_type="12"/>
+	   			<column property="codeId" name="code_id" hid="1355569394" jdbc_type="4"/>
+	   			<column property="description" name="description" hid="1245460659" jdbc_type="12"/>
+	   			<column property="handlerId" name="report_handler_id" hid="1793603740" jdbc_type="4"/>
+	   			<column property="printGroupId" name="print_group_id" hid="344468172" jdbc_type="4"/>
+	   			<column property="systemDefault" name="system_default" hid="1834399808" jdbc_type="4"/>
+	   			<column property="groupId" name="group_id" hid="706269784" jdbc_type="5"/>
+	   			<column property="multiPrintJob" name="multi_printjob" hid="1330253767" jdbc_type="-6"/>
+</table_column>

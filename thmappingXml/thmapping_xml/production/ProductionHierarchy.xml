@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="production_hierarchy" hid="1632279368" class_name="com.starcomsoft.pp.production.ProductionHierarchy" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="929356323" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="756566650" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="707254098" jdbc_type="4"/>
+	   			<column property="forecastGroupId" name="forecast_group_id" hid="1344788135" jdbc_type="4"/>
+	   			<column property="parentId" name="parent_id" hid="1430559114" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="2021481161" jdbc_type="4"/>
+	   			<column property="element1Id" name="element1_id" hid="170819193" jdbc_type="4"/>
+	   			<column property="element2Id" name="element2_id" hid="170818464" jdbc_type="4"/>
+	   			<column property="element3Id" name="element3_id" hid="170817735" jdbc_type="4"/>
+	   			<column property="element4Id" name="element4_id" hid="170817006" jdbc_type="4"/>
+	   			<column property="element5Id" name="element5_id" hid="170816277" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="customer_sales_history" hid="2025063725" class_name="com.starcomsoft.pp.order.replenishment.CustomerSalesHistory" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="821405522" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="116804035" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1466684351" jdbc_type="4"/>
+	   			<column property="messageId" name="message_id" hid="63238758" jdbc_type="4"/>
+	   			<column property="documentType" name="document_type" hid="1223048797" jdbc_type="12"/>
+	   			<column property="soldDate" name="sold_date" hid="785733852" jdbc_type="93"/>
+	   			<column property="purchaseOrderNumber" name="purchase_order_number" hid="1008196299" jdbc_type="12"/>
+	   			<column property="billToCustomerId" name="bill_to_customer_id" hid="1090410271" jdbc_type="4"/>
+	   			<column property="shipToCustomerId" name="ship_to_customer_id" hid="76841000" jdbc_type="4"/>
+	   			<column property="produceCode" name="product_code" hid="758828768" jdbc_type="12"/>
+	   			<column property="productCodeId" name="product_code_id" hid="864600572" jdbc_type="4"/>
+	   			<column property="soldQty" name="sold_qty" hid="1041742156" jdbc_type="4"/>
+	   			<column property="salesPrice" name="sales_price" hid="1893772161" jdbc_type="8"/>
+</table_column>

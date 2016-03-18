@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="item_cost" hid="807238386" class_name="com.starcomsoft.pp.inventory.ItemCost" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="961800871" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1034885856" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="497107188" jdbc_type="4"/>
+	   			<column property="itemId" name="item_id" hid="1028772317" jdbc_type="4"/>
+	   			<column property="directMaterialsUnitStandard" name="direct_materials_unit_standard" hid="2144783821" jdbc_type="8"/>
+	   			<column property="directLaborUnitStandard" name="direct_labor_unit_standard" hid="61984995" jdbc_type="8"/>
+	   			<column property="plantMaterialsUnitStandard" name="plant_materials_unit_standard" hid="2031335465" jdbc_type="8"/>
+	   			<column property="shippingLaborUnitStandard" name="shipping_labor_unit_standard" hid="1438446526" jdbc_type="8"/>
+	   			<column property="deliveryUnitStandard" name="delivery_unit_standard" hid="1246221069" jdbc_type="8"/>
+	   			<column property="indirectLaborUnitStandard" name="indirect_labor_unit_standard" hid="73513618" jdbc_type="8"/>
+	   			<column property="variableOverheadUnitStandard" name="variable_overhead_unit_standard" hid="1202583420" jdbc_type="8"/>
+	   			<column property="directMaterialsUnitActual" name="direct_materials_unit_actual" hid="1088191258" jdbc_type="8"/>
+	   			<column property="directLaborUnitActual" name="direct_labor_unit_actual" hid="529848092" jdbc_type="8"/>
+	   			<column property="plantMaterialsUnitActual" name="plant_materials_unit_actual" hid="925331074" jdbc_type="8"/>
+	   			<column property="shippingLaborUnitActual" name="shipping_labor_unit_actual" hid="1996004299" jdbc_type="8"/>
+	   			<column property="deliveryUnitActual" name="delivery_unit_actual" hid="67249702" jdbc_type="8"/>
+	   			<column property="indirectLaborUnitActual" name="indirect_labor_unit_actual" hid="318398181" jdbc_type="8"/>
+	   			<column property="variableOverheadUnitActual" name="variable_overhead_unit_actual" hid="2001236251" jdbc_type="8"/>
+	   			<column property="directMaterialsSqftStandard" name="direct_materials_sqft_standard" hid="2004873635" jdbc_type="8"/>
+	   			<column property="directLaborSqftStandard" name="direct_labor_sqft_standard" hid="77925191" jdbc_type="8"/>
+	   			<column property="plantMaterialsSqftStandard" name="plant_materials_sqft_standard" hid="1891425279" jdbc_type="8"/>
+	   			<column property="shippingLaborSqftStandard" name="shipping_labor_sqft_standard" hid="1578356712" jdbc_type="8"/>
+	   			<column property="deliverySqftStandard" name="delivery_sqft_standard" hid="1106310883" jdbc_type="8"/>
+	   			<column property="indirectLaborSqftStandard" name="indirect_labor_sqft_standard" hid="66396568" jdbc_type="8"/>
+	   			<column property="variableOverheadSqftStandard" name="variable_overhead_sqft_standard" hid="1062673234" jdbc_type="8"/>
+	   			<column property="directMaterialsSqftActual" name="direct_materials_sqft_actual" hid="1561295836" jdbc_type="8"/>
+	   			<column property="directLaborSqftActual" name="direct_labor_sqft_actual" hid="1115632110" jdbc_type="8"/>
+	   			<column property="plantMaterialsSqftActual" name="plant_materials_sqft_actual" hid="720149128" jdbc_type="8"/>
+	   			<column property="shippingLaborSqftActual" name="shipping_labor_sqft_actual" hid="350524097" jdbc_type="8"/>
+	   			<column property="deliverySqftActual" name="delivery_sqft_actual" hid="1578230500" jdbc_type="8"/>
+	   			<column property="indirectLaborSqftActual" name="indirect_labor_sqft_actual" hid="1963878383" jdbc_type="8"/>
+	   			<column property="variableOverheadSqftActual" name="variable_overhead_sqft_actual" hid="648250843" jdbc_type="8"/>
+	   			<column property="shippedUnitsStandard" name="shipped_units_standard" hid="1753574793" jdbc_type="8"/>
+	   			<column property="averagePriceStandard" name="average_price_standard" hid="1003581375" jdbc_type="8"/>
+	   			<column property="marginPerUnitStandard" name="margin_per_unit_standard" hid="713818253" jdbc_type="8"/>
+	   			<column property="marginPerSquareFootStandard" name="margin_per_square_foot_standard" hid="362300963" jdbc_type="8"/>
+	   			<column property="shippedUnitsActual" name="shipped_units_actual" hid="1982387682" jdbc_type="8"/>
+	   			<column property="averagePriceActual" name="average_price_actual" hid="1973128504" jdbc_type="8"/>
+	   			<column property="marginPerUnitActual" name="margin_per_unit_actual" hid="1317954650" jdbc_type="8"/>
+	   			<column property="marginPerSquareFootActual" name="margin_per_square_foot_actual" hid="1119142922" jdbc_type="8"/>
+	   			<column property="totalSquareFeet" name="total_square_feet" hid="1768010767" jdbc_type="8"/>
+</table_column>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="document_master" hid="2122485395" class_name="com.starcomsoft.pp.order.Order" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	<super_class>com.starcomsoft.pp.ar.DocumentMaster</super_class>
+	   			<column property="invoiceNumber" name="invoice_number" hid="617715290" jdbc_type="4"/>
+	   			<column property="holdStatus" name="hold_status" hid="1828503215" jdbc_type="4"/>
+	   			<column property="isLocked" name="is_locked" hid="661676122" jdbc_type="4"/>
+	   			<column property="memoId" name="memo_id" hid="486779287" jdbc_type="4"/>
+	   			<column property="promoId" name="promo_id" hid="107419902" jdbc_type="4"/>
+	   			<column property="receiveDate" name="receive_date" hid="53720811" jdbc_type="93"/>
+	   			<column property="deliveryId" name="delivery_id" hid="1222343757" jdbc_type="4"/>
+	   			<column property="deliverySequenceNumber" name="delivery_sequence_number" hid="924784929" jdbc_type="4"/>
+	   			<column property="shipViaId" name="ship_via_id" hid="1255158844" jdbc_type="4"/>
+	   			<column property="salesrepId" name="salesrep_id" hid="414769848" jdbc_type="4"/>
+	   			<column property="managerId" name="manager_id" hid="1794564340" jdbc_type="4"/>
+	   			<column property="freightType" name="freight_type_id" hid="1778547277" jdbc_type="4"/>
+	   			<column property="taxableAmount" name="taxable_amount" hid="254689513" jdbc_type="8"/>
+	   			<column property="discountableAmount" name="discountable_amount" hid="1555107723" jdbc_type="8"/>
+	   			<column property="taxPercent" name="tax_percent" hid="92164194" jdbc_type="8"/>
+	   			<column property="taxAmount" name="tax_amount" hid="963843741" jdbc_type="8"/>
+	   			<column property="gstTaxPercent" name="gst_tax_percent" hid="426061343" jdbc_type="8"/>
+	   			<column property="gstTaxAmount" name="gst_tax_amount" hid="1385149518" jdbc_type="8"/>
+	   			<column property="tradeDiscountAmount" name="trade_discount_amount" hid="1573967056" jdbc_type="8"/>
+	   			<column property="freightAmount" name="freight_amount" hid="2107690679" jdbc_type="8"/>
+	   			<column property="surchargeAmount" name="surcharge_amount" hid="599995172" jdbc_type="8"/>
+	   			<column property="miscellaneousAmount" name="miscellaneous_amount" hid="1315300204" jdbc_type="8"/>
+	   			<column property="cashDiscountableAmount" name="cash_discountable_amount" hid="2035329101" jdbc_type="8"/>
+	   			<column property="totalQty" name="total_qty" hid="1126546942" jdbc_type="4"/>
+	   			<column property="orderNoteId" name="order_note_id" hid="2038373050" jdbc_type="4"/>
+	   			<column property="pickingNoteId" name="picking_note_id" hid="2065295787" jdbc_type="4"/>
+	   			<column property="shippingNoteId" name="shipping_note_id" hid="1195842224" jdbc_type="4"/>
+	   			<column property="termsCodeId" name="terms_code_id" hid="1621767142" jdbc_type="4"/>
+	   			<column property="deliveryTime" name="delivery_time" hid="225606015" jdbc_type="4"/>
+	   			<column property="pullLoad" name="pull_load" hid="979379713" jdbc_type="12"/>
+	   			<column property="printGroupId" name="print_group_id" hid="461249970" jdbc_type="4"/>
+	   			<column property="itemUnits" name="item_units" hid="1731569862" jdbc_type="4"/>
+	   			<column property="purchaseOrderNumber" name="purchase_order_number" hid="2106560245" jdbc_type="12"/>
+	   			<column property="placedBy" name="placed_by" hid="929987968" jdbc_type="12"/>
+	   			<column property="customerReference" name="customer_reference" hid="2008286709" jdbc_type="12"/>
+	   			<column property="shortNote" name="short_note" hid="845829858" jdbc_type="12"/>
+	   			<column property="userName" name="user_name" hid="1181682020" jdbc_type="12"/>
+	   			<column property="dueDate" name="due_date" hid="50928496" jdbc_type="93"/>
+	   			<column property="isDueDateModified" name="is_due_date_modified" hid="174154573" jdbc_type="4"/>
+	   			<column property="edi810Flag" name="edi_810_flag" hid="1680306728" jdbc_type="4"/>
+	   			<column property="edi855Flag" name="edi_855_flag" hid="1677885719" jdbc_type="4"/>
+	   			<column property="edi856Flag" name="edi_856_flag" hid="1677826670" jdbc_type="4"/>
+	   			<column property="preventImportEdit" name="prevent_import_edit" hid="1750988112" jdbc_type="4"/>
+	   			<column property="hasPickingNote" name="has_picking_note" hid="894847902" jdbc_type="4"/>
+	   			<column property="hasInvoiceNote" name="has_invoice_note" hid="1967364682" jdbc_type="4"/>
+	   			<column property="hasShippingNote" name="has_shipping_note" hid="2064544807" jdbc_type="4"/>
+	   			<column property="weight" name="weight" hid="1376982171" jdbc_type="8"/>
+	   			<column property="size" name="size" hid="1342609424" jdbc_type="8"/>
+	   			<column property="shippingContainers" name="shipping_containers" hid="122130220" jdbc_type="8"/>
+	   			<column property="containers1" name="container_count1" hid="132650887" jdbc_type="8"/>
+	   			<column property="containers2" name="container_count2" hid="132650886" jdbc_type="8"/>
+	   			<column property="containers3" name="container_count3" hid="132650885" jdbc_type="8"/>
+	   			<column property="originCode" name="origin_code" hid="1518542727" jdbc_type="4"/>
+	   			<column property="toFacilityId" name="to_facility_id" hid="438378208" jdbc_type="4"/>
+	   			<column property="preventChangeShipDate" name="prevent_change_ship_date" hid="2059680582" jdbc_type="4"/>
+	   			<column property="isAdOrder" name="is_ad_order" hid="1997500368" jdbc_type="4"/>
+	   			<column property="printAcknowledgement" name="print_acknowledgement" hid="1483185401" jdbc_type="4"/>
+	   			<column property="poRevision" name="po_revision" hid="831332662" jdbc_type="4"/>
+</table_column>

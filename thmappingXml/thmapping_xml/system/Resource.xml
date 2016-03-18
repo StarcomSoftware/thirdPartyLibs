@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="resource" hid="1080062363" class_name="com.starcomsoft.pp.system.Resource" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1585706528" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="189439039" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="536942045" jdbc_type="4"/>
+	   			<column property="resourceName" name="resource_name" hid="688188491" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="30540921" jdbc_type="12"/>
+	   			<column property="resourceTypeId" name="resource_type_id" hid="817129448" jdbc_type="4"/>
+	   			<column property="parentResourceName" name="parent_resource_name" hid="894635364" jdbc_type="12"/>
+	   			<column property="parentId" name="parent_id" hid="1557104417" jdbc_type="4"/>
+	   			<column property="isProtected" name="is_protected" hid="691435824" jdbc_type="4"/>
+</table_column>

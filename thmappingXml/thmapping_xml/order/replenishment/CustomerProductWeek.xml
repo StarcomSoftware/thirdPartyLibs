@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="customer_product_week" hid="1802889632" class_name="com.starcomsoft.pp.order.replenishment.CustomerProductWeek" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="5173173" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="535823646" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="203410794" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="1908974634" jdbc_type="4"/>
+	   			<column property="productCodeId" name="product_code_id" hid="110543585" jdbc_type="4"/>
+	   			<column property="year" name="year" hid="419039745" jdbc_type="4"/>
+	   			<column property="week" name="week" hid="419038316" jdbc_type="4"/>
+	   			<column property="projectedQty" name="projected_qty" hid="1387623339" jdbc_type="4"/>
+	   			<column property="projectedAmt" name="projected_amt" hid="1387624703" jdbc_type="8"/>
+	   			<column property="projectedSellThru" name="projected_sell_thru" hid="1669389297" jdbc_type="4"/>
+	   			<column property="minQty" name="min_qty" hid="531236753" jdbc_type="4"/>
+	   			<column property="maxQty" name="max_qty" hid="530829971" jdbc_type="4"/>
+</table_column>

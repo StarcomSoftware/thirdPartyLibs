@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="vendor_price" hid="1876073517" class_name="com.starcomsoft.pp.purchasing.VendorPrice" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1638098472" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1110390727" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="2049135317" jdbc_type="4"/>
+	   			<column property="vendorPriceGroupId" name="vendor_price_group_id" hid="1444124739" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="249694213" jdbc_type="4"/>
+	   			<column property="purchaseQty" name="purchase_qty" hid="545052149" jdbc_type="4"/>
+	   			<column property="asOfDate" name="as_of_date" hid="1057512504" jdbc_type="93"/>
+	   			<column property="price" name="price" hid="172812170" jdbc_type="8"/>
+	   			<column property="packageCodeId" name="package_code_id" hid="897215323" jdbc_type="4"/>
+</table_column>

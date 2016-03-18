@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="notes" hid="1462588" class_name="com.starcomsoft.pp.customer.Notes" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="118470673" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="919146022" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1220312678" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="252667374" jdbc_type="4"/>
+	   			<column property="date" name="date" hid="1006187178" jdbc_type="93"/>
+	   			<column property="type" name="type" hid="1006200750" jdbc_type="4"/>
+	   			<column property="subtype" name="subtype" hid="919898512" jdbc_type="4"/>
+	   			<column property="reference" name="reference" hid="1615721861" jdbc_type="12"/>
+	   			<column property="owner" name="owner" hid="465837847" jdbc_type="12"/>
+	   			<column property="text" name="text" hid="1006199217" jdbc_type="-1"/>
+</table_column>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="kit" hid="17747" class_name="com.starcomsoft.pp.inventory.Kit" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1438552" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="946479687" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="569446485" jdbc_type="4"/>
+	   			<column property="parentItemId" name="parent_item_id" hid="906917729" jdbc_type="4"/>
+	   			<column property="kitCodeId" name="kit_code_id" hid="1788462303" jdbc_type="4"/>
+	   			<column property="allowOrderChange" name="allow_order_change" hid="316003102" jdbc_type="4"/>
+	   			<column property="glByMembers" name="gl_by_members" hid="1789770158" jdbc_type="4"/>
+	   			<column property="kitMethodId" name="kit_method_id" hid="1554861215" jdbc_type="4"/>
+	   			<column property="printMembers" name="print_members" hid="1705133474" jdbc_type="4"/>
+</table_column>

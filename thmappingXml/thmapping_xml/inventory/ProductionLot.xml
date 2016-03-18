@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="production_lot" hid="1074422120" class_name="com.starcomsoft.pp.inventory.ProductionLot" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1128846845" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="607274330" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="163771790" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="1190661136" jdbc_type="4"/>
+	   			<column property="seasonId" name="season_id" hid="2082716667" jdbc_type="4"/>
+	   			<column property="lotNumber" name="lot_number" hid="529154495" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="793040127" jdbc_type="4"/>
+	   			<column property="estimatedReadyDate" name="estimated_ready_date" hid="1718232743" jdbc_type="93"/>
+	   			<column property="plantDate" name="plant_date" hid="1866994924" jdbc_type="93"/>
+	   			<column property="plantedQty" name="planted_qty" hid="376562019" jdbc_type="4"/>
+	   			<column property="reserveQty" name="reserve_qty" hid="321837833" jdbc_type="4"/>
+	   			<column property="salesQty" name="sales_qty" hid="2096812491" jdbc_type="4"/>
+	   			<column property="productionQty" name="production_qty" hid="447600388" jdbc_type="4"/>
+	   			<column property="forecastSalesQty" name="forecast_sales_qty" hid="1323367917" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="834821598" jdbc_type="4"/>
+	   			<column property="isConfirmed" name="is_confirmed" hid="1947175290" jdbc_type="4"/>
+	   			<column property="cutoffDate" name="cutoff_date" hid="1546957196" jdbc_type="93"/>
+	   			<column property="cost" name="cost" hid="1242278897" jdbc_type="8"/>
+	   			<column property="costMethod" name="cost_method" hid="799952807" jdbc_type="4"/>
+</table_column>

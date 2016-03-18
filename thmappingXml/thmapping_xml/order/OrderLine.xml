@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="document_detail" hid="2122991372" class_name="com.starcomsoft.pp.order.OrderLine" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	<super_class>com.starcomsoft.pp.ar.DocumentDetail</super_class>
+	   			<column property="itemId" name="item_id" hid="1520232753" jdbc_type="4"/>
+	   			<column property="itemCategoryId" name="item_category_id" hid="346508444" jdbc_type="4"/>
+	   			<column property="packageId" name="package_id" hid="1735426780" jdbc_type="4"/>
+	   			<column property="packageCount" name="package_count" hid="1889250464" jdbc_type="4"/>
+	   			<column property="qtyPerShelf" name="qty_per_shelf" hid="295999281" jdbc_type="4"/>
+	   			<column property="eachCount" name="each_count" hid="1767039165" jdbc_type="4"/>
+	   			<column property="size" name="size" hid="367357225" jdbc_type="8"/>
+	   			<column property="weight" name="weight" hid="309034620" jdbc_type="8"/>
+	   			<column property="height" name="height" hid="308148885" jdbc_type="8"/>
+	   			<column property="kitParentId" name="kit_parent_id" hid="363735321" jdbc_type="4"/>
+	   			<column property="kitDetailId" name="kit_detail_id" hid="132905406" jdbc_type="4"/>
+	   			<column property="kitId" name="kit_id" hid="308359640" jdbc_type="4"/>
+	   			<column property="isAssorted" name="is_assorted" hid="2024742572" jdbc_type="4"/>
+	   			<column property="orderQty" name="order_qty" hid="1663028733" jdbc_type="4"/>
+	   			<column property="creditQty" name="credit_qty" hid="1732122716" jdbc_type="4"/>
+	   			<column property="requestedQty" name="requested_qty" hid="1608191717" jdbc_type="4"/>
+	   			<column property="backorderQty" name="backorder_qty" hid="417294510" jdbc_type="4"/>
+	   			<column property="commitDate" name="commit_date" hid="1929350618" jdbc_type="93"/>
+	   			<column property="priceListId" name="price_list_id" hid="207368018" jdbc_type="4"/>
+	   			<column property="shippingContainerId" name="shipping_container_id" hid="684368308" jdbc_type="4"/>
+	   			<column property="priceSource" name="price_source" hid="22586865" jdbc_type="4"/>
+	   			<column property="itemPrice" name="item_price" hid="148048939" jdbc_type="8"/>
+	   			<column property="addOnPrice" name="add_on_price" hid="1917085157" jdbc_type="8"/>
+	   			<column property="netPrice" name="net_price" hid="1565952085" jdbc_type="8"/>
+	   			<column property="brokerDiscountPercent" name="broker_discount_percent" hid="1882266001" jdbc_type="8"/>
+	   			<column property="addOnAmount" name="add_on_amount" hid="74809740" jdbc_type="8"/>
+	   			<column property="creditPrice" name="credit_price" hid="1431989095" jdbc_type="8"/>
+	   			<column property="adjustmentAmount" name="adjustment_amount" hid="107371354" jdbc_type="8"/>
+	   			<column property="adjustmentPercent" name="adjustment_percent" hid="958837069" jdbc_type="8"/>
+	   			<column property="casecode" name="casecode" hid="835210381" jdbc_type="12"/>
+	   			<column property="skuId" name="sku_id" hid="308845883" jdbc_type="4"/>
+	   			<column property="upcId" name="upc_id" hid="308983664" jdbc_type="4"/>
+	   			<column property="hasPickingNote" name="has_picking_note" hid="2011853161" jdbc_type="4"/>
+	   			<column property="hasItemNote" name="has_item_note" hid="2129471307" jdbc_type="4"/>
+	   			<column property="isTaxable" name="is_taxable" hid="215915680" jdbc_type="4"/>
+	   			<column property="isDiscountable" name="is_discountable" hid="1386037668" jdbc_type="4"/>
+	   			<column property="fromPromoId" name="from_promo_id" hid="437385536" jdbc_type="4"/>
+	   			<column property="isLinkedToPromo" name="is_linked_to_promo" hid="216702540" jdbc_type="4"/>
+	   			<column property="fromMasterId" name="from_master_id" hid="566461425" jdbc_type="4"/>
+	   			<column property="masterCommittedQty" name="master_committed_qty" hid="246986898" jdbc_type="4"/>
+	   			<column property="masterShippedQty" name="master_shipped_qty" hid="1597034073" jdbc_type="4"/>
+	   			<column property="stagingStatusId" name="staging_status_id" hid="101147456" jdbc_type="4"/>
+	   			<column property="itemReference" name="item_reference" hid="663872439" jdbc_type="12"/>
+	   			<column property="productionLotId" name="production_lot_id" hid="1564277245" jdbc_type="4"/>
+	   			<column property="kitMethodId" name="kit_method_id" hid="254961960" jdbc_type="4"/>
+	   			<column property="isDetail" name="is_detail" hid="1406743730" jdbc_type="4"/>
+	   			<column property="kitCount" name="kit_count" hid="1455857404" jdbc_type="4"/>
+	   			<column property="kitUnitId" name="kit_unit_id" hid="1969764607" jdbc_type="4"/>
+	   			<column property="kitAddOnId" name="kit_add_on_id" hid="275408868" jdbc_type="4"/>
+	   			<column property="isCommitted" name="is_committed" hid="979216867" jdbc_type="4"/>
+	   			<column property="cartId" name="cart_id" hid="1524452934" jdbc_type="12"/>
+	   			<column property="subLineId" name="sub_line_id" hid="626550007" jdbc_type="4"/>
+	   			<column property="poLineId" name="po_line_id" hid="1974968538" jdbc_type="4"/>
+	   			<column property="backorderLineId" name="backorder_line_id" hid="1971816012" jdbc_type="4"/>
+</table_column>

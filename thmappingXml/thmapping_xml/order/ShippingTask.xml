@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="shipping_task" hid="1123596929" class_name="com.starcomsoft.pp.order.ShippingTask" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="817036988" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="158340741" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="356643743" jdbc_type="4"/>
+	   			<column property="laborTaskId" name="labor_task_id" hid="1402396773" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="1521837473" jdbc_type="4"/>
+	   			<column property="unitsPerHour" name="units_per_hour" hid="2126303691" jdbc_type="8"/>
+</table_column>

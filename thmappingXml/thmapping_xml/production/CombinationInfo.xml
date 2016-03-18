@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="combination_info" hid="1963448919" class_name="com.starcomsoft.pp.production.CombinationInfo" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="125571442" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1746716577" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="948103323" jdbc_type="4"/>
+	   			<column property="growSeasonId" name="grow_season_id" hid="1676786172" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="1004316166" jdbc_type="4"/>
+	   			<column property="qty" name="qty" hid="1130142065" jdbc_type="4"/>
+	   			<column property="growMethodId" name="grow_method_id" hid="1427946396" jdbc_type="4"/>
+	   			<column property="buyInPercent" name="buy_in_percent" hid="122074681" jdbc_type="4"/>
+	   			<column property="fromFacilityId" name="from_facility_id" hid="2058341353" jdbc_type="4"/>
+</table_column>

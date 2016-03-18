@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="stock_yield" hid="1858742261" class_name="com.starcomsoft.pp.production.StockYield" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="234268826" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="741944757" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1784853447" jdbc_type="4"/>
+	   			<column property="growSeasonId" name="grow_season_id" hid="617602696" jdbc_type="4"/>
+	   			<column property="week" name="week" hid="1795917025" jdbc_type="4"/>
+	   			<column property="yield" name="yield" hid="1016599812" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="role_membership" hid="1970615864" class_name="com.starcomsoft.pp.system.RoleMembership" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="706093987" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1406480390" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1772333522" jdbc_type="4"/>
+	   			<column property="userId" name="user_id" hid="1406688739" jdbc_type="4"/>
+	   			<column property="roleId" name="role_id" hid="1404894670" jdbc_type="4"/>
+	   			<column property="isProtected" name="is_protected" hid="2034609987" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="gl_period" hid="679919456" class_name="com.starcomsoft.pp.ar.GLPeriod" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="761097867" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="477646046" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1711053098" jdbc_type="4"/>
+	   			<column property="periodNumber" name="period_number" hid="2095877035" jdbc_type="4"/>
+	   			<column property="periodName" name="period_name" hid="981588069" jdbc_type="12"/>
+	   			<column property="beginDate" name="begin_date" hid="1095406282" jdbc_type="93"/>
+	   			<column property="endDate" name="end_date" hid="73642916" jdbc_type="93"/>
+	   			<column property="accountsReceivableStatus" name="ar_status" hid="817212242" jdbc_type="4"/>
+	   			<column property="inventoryStatus" name="inventory_status" hid="1782684287" jdbc_type="4"/>
+	   			<column property="processedFinanceCharges" name="processed_finance_charges" hid="164459247" jdbc_type="4"/>
+</table_column>

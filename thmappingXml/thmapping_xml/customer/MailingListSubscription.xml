@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="mailing_list_subscription" hid="1954280523" class_name="com.starcomsoft.pp.customer.MailingListSubscription" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="617066544" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1347991793" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1212176397" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="966790793" jdbc_type="4"/>
+	   			<column property="mailingListId" name="mailing_list_id" hid="1052848677" jdbc_type="4"/>
+</table_column>

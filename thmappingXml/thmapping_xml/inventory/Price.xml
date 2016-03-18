@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="price" hid="1476974" class_name="com.starcomsoft.pp.inventory.Price" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="119635939" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="830830724" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="187986408" jdbc_type="4"/>
+	   			<column property="priceGroupId" name="price_group_id" hid="2085323361" jdbc_type="4"/>
+	   			<column property="priceListId" name="price_list_id" hid="711071160" jdbc_type="4"/>
+	   			<column property="qtyBreak" name="qty_break" hid="1281194640" jdbc_type="4"/>
+	   			<column property="asOfDate" name="as_of_date" hid="878266771" jdbc_type="93"/>
+	   			<column property="price" name="price" hid="1315319241" jdbc_type="8"/>
+	   			<column property="percent" name="price_percent" hid="712942321" jdbc_type="8"/>
+	   			<column property="isDefaultPrice" name="is_default_price" hid="326532816" jdbc_type="4"/>
+</table_column>

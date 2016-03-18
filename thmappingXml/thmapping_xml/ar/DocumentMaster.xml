@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="document_master" hid="2122485395" class_name="com.starcomsoft.pp.ar.DocumentMaster" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="122624110" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="491598851" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="604825089" jdbc_type="4"/>
+	   			<column property="documentType" name="document_type" hid="848460643" jdbc_type="4"/>
+	   			<column property="transactionType" name="transaction_type" hid="571195860" jdbc_type="4"/>
+	   			<column property="documentNumber" name="document_number" hid="6217292" jdbc_type="4"/>
+	   			<column property="billToName" name="bill_to_name" hid="867584090" jdbc_type="12"/>
+	   			<column property="billToCustomerId" name="bill_to_customer_id" hid="2059417951" jdbc_type="4"/>
+	   			<column property="debitAmount" name="debit_amount" hid="1476869976" jdbc_type="8"/>
+	   			<column property="creditAmount" name="credit_amount" hid="121715203" jdbc_type="8"/>
+	   			<column property="enteredBy" name="entered_by" hid="7890714" jdbc_type="12"/>
+	   			<column property="phoneNumber" name="phone_number" hid="105052929" jdbc_type="12"/>
+	   			<column property="isARBalance" name="is_ar_balance" hid="816435672" jdbc_type="4"/>
+	   			<column property="createDate" name="create_date" hid="1863734970" jdbc_type="93"/>
+	   			<column property="documentDate" name="document_date" hid="848474215" jdbc_type="93"/>
+	   			<column property="transferBatch" name="gl_transfer_batch" hid="1182711021" jdbc_type="12"/>
+	   			<column property="amount" name="amount" hid="1378223199" jdbc_type="8"/>
+	   			<column property="orderStatus" name="order_status" hid="1204854260" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="1958777726" jdbc_type="4"/>
+	   			<column property="currencyId" name="currency_id" hid="67954540" jdbc_type="4"/>
+	   			<column property="shipToAddressId" name="ship_to_address_id" hid="1480855404" jdbc_type="4"/>
+	   			<column property="shipToCustomerId" name="ship_to_customer_id" hid="892166680" jdbc_type="4"/>
+	   			<column property="shipToName" name="ship_to_name" hid="1587761051" jdbc_type="12"/>
+	   			<column property="billToAddressId" name="bill_to_address_id" hid="80494947" jdbc_type="4"/>
+	   			<column property="cashDiscountAmount" name="cash_discount_amount" hid="1059283673" jdbc_type="8"/>
+	   			<column property="isDiscountModified" name="is_discount_modified" hid="483517991" jdbc_type="4"/>
+	   			<column property="postDate" name="post_date" hid="954867584" jdbc_type="93"/>
+</table_column>

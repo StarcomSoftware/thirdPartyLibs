@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="order_merchandiser" hid="1650206837" class_name="com.starcomsoft.pp.order.OrderMerchandiser" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="522766576" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="905780687" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="231402829" jdbc_type="4"/>
+	   			<column property="orderId" name="order_id" hid="410423139" jdbc_type="4"/>
+	   			<column property="merchandiserId" name="merchandiser_id" hid="1236049940" jdbc_type="4"/>
+</table_column>

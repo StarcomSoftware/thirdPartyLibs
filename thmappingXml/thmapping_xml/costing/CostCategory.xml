@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="cost_category" hid="224685393" class_name="com.starcomsoft.pp.costing.CostCategory" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1019648694" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1902981433" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1410566013" jdbc_type="4"/>
+	   			<column property="code" name="code" hid="987163108" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="1642192973" jdbc_type="12"/>
+	   			<column property="costTypeId" name="cost_type_id" hid="1733916711" jdbc_type="4"/>
+	   			<column property="color" name="color" hid="294534232" jdbc_type="4"/>
+	   			<column property="applyToId" name="apply_to_id" hid="344509675" jdbc_type="4"/>
+</table_column>

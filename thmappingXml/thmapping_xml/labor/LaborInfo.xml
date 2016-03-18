@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="labor_info" hid="992610482" class_name="com.starcomsoft.pp.labor.LaborInfo" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1202930627" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1689261660" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1867410744" jdbc_type="4"/>
+	   			<column property="growSeasonId" name="grow_season_id" hid="2106963345" jdbc_type="4"/>
+	   			<column property="laborTaskId" name="labor_task_id" hid="108370228" jdbc_type="4"/>
+	   			<column property="days" name="days" hid="1346869705" jdbc_type="4"/>
+	   			<column property="fromDateId" name="from_date_id" hid="85085645" jdbc_type="4"/>
+	   			<column property="hours" name="hours" hid="763110775" jdbc_type="4"/>
+	   			<column property="productionUnits" name="production_units" hid="1691847047" jdbc_type="4"/>
+	   			<column property="hoursPerId" name="hours_per_id" hid="984338967" jdbc_type="4"/>
+	   			<column property="crewId" name="crew_id" hid="1679848667" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="279019796" jdbc_type="4"/>
+</table_column>

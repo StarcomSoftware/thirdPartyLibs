@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="forecast" hid="1027842146" class_name="com.starcomsoft.pp.production.Forecast" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1650836247" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1659608272" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1636393468" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="1435066109" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="1248034453" jdbc_type="4"/>
+	   			<column property="modelId" name="model_id" hid="2012922655" jdbc_type="4"/>
+	   			<column property="plantDate" name="plant_date" hid="862002822" jdbc_type="93"/>
+	   			<column property="readyDate" name="ready_date" hid="1330497588" jdbc_type="93"/>
+	   			<column property="maximumProductionQty" name="maximum_production_qty" hid="670290683" jdbc_type="8"/>
+	   			<column property="isAllPlanted" name="is_all_planted" hid="1833147299" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="914854874" jdbc_type="4"/>
+	   			<column property="productionLotId" name="production_lot_id" hid="159297573" jdbc_type="4"/>
+	   			<column property="forecastProductionQty" name="forecast_production_qty" hid="1887018420" jdbc_type="8"/>
+	   			<column property="forecastSalesQty" name="forecast_sales_qty" hid="489343021" jdbc_type="8"/>
+	   			<column property="forecastReserveQty" name="forecast_reserve_qty" hid="652963199" jdbc_type="8"/>
+	   			<column property="plantedProductionQty" name="planted_production_qty" hid="1021795803" jdbc_type="8"/>
+	   			<column property="plantedSalesQty" name="planted_sales_qty" hid="1070449482" jdbc_type="8"/>
+	   			<column property="plantedReserveQty" name="planted_reserve_qty" hid="1852862938" jdbc_type="8"/>
+	   			<column property="isChangedMaterials" name="is_changed_materials" hid="1479665216" jdbc_type="4"/>
+	   			<column property="isChangedLabor" name="is_changed_labor" hid="188297334" jdbc_type="4"/>
+	   			<column property="isChangedSpace" name="is_changed_space" hid="188353994" jdbc_type="4"/>
+	   			<column property="isChangedInventory" name="is_changed_inventory" hid="1588627652" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="619319432" jdbc_type="4"/>
+	   			<column property="forecastStatusId" name="forecast_status_id" hid="575285440" jdbc_type="4"/>
+	   			<column property="forecastYieldQty" name="forecast_yield_qty" hid="782481940" jdbc_type="4"/>
+	   			<column property="isConfirmed" name="is_confirmed" hid="2147193652" jdbc_type="4"/>
+	   			<column property="growSeasonId" name="grow_season_id" hid="718537115" jdbc_type="4"/>
+	   			<column property="fromForecastId" name="from_forecast_id" hid="1705133528" jdbc_type="4"/>
+	   			<column property="estimatedPlantQty" name="estimated_plant_qty" hid="631220659" jdbc_type="4"/>
+	   			<column property="startDate" name="start_date" hid="1924203475" jdbc_type="93"/>
+	   			<column property="scheduledProductionQty" name="scheduled_production_qty" hid="236488862" jdbc_type="8"/>
+	   			<column property="scheduledSalesQty" name="scheduled_sales_qty" hid="1327738887" jdbc_type="8"/>
+	   			<column property="scheduledReserveQty" name="scheduled_reserve_qty" hid="1462374789" jdbc_type="8"/>
+	   			<column property="scheduledPlantDate" name="scheduled_plant_date" hid="1671781042" jdbc_type="93"/>
+	   			<column property="scheduledReadyDate" name="scheduled_ready_date" hid="1203286276" jdbc_type="93"/>
+</table_column>

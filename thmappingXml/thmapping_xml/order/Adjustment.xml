@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="adjustment" hid="788476910" class_name="com.starcomsoft.pp.order.Adjustment" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="557880775" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="89468160" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="415397164" jdbc_type="4"/>
+	   			<column property="type" name="type" hid="2056286652" jdbc_type="4"/>
+	   			<column property="description" name="description" hid="1251600090" jdbc_type="12"/>
+	   			<column property="code" name="code" hid="2056299963" jdbc_type="12"/>
+	   			<column property="methodId" name="method_id" hid="956037663" jdbc_type="4"/>
+	   			<column property="factorId" name="factor_id" hid="627263037" jdbc_type="4"/>
+	   			<column property="gLAccountId" name="gl_account_id" hid="1037858109" jdbc_type="4"/>
+</table_column>

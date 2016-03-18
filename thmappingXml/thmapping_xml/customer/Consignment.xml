@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="consignment" hid="485320" class_name="com.starcomsoft.pp.customer.Consignment" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="39311965" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="2057690630" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1718712274" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="1556311486" jdbc_type="4"/>
+	   			<column property="productCodeTypeId" name="product_code_type_id" hid="473346552" jdbc_type="4"/>
+	   			<column property="productCode" name="product_code" hid="1264050459" jdbc_type="12"/>
+	   			<column property="onHandQty" name="on_hand_qty" hid="1105345204" jdbc_type="4"/>
+</table_column>

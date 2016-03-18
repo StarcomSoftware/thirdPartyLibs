@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="forecast_detail" hid="1647240812" class_name="com.starcomsoft.pp.production.ForecastDetail" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="282520641" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="916161930" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="2105480982" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="530543827" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="83363941" jdbc_type="4"/>
+	   			<column property="modelId" name="model_id" hid="383127127" jdbc_type="4"/>
+	   			<column property="plantDate" name="plant_date" hid="55498800" jdbc_type="93"/>
+	   			<column property="readyDate" name="ready_date" hid="523993566" jdbc_type="93"/>
+	   			<column property="sourceId" name="source_id" hid="1114850273" jdbc_type="4"/>
+	   			<column property="qty" name="qty" hid="1752280614" jdbc_type="8"/>
+	   			<column property="netQty" name="net_qty" hid="911909648" jdbc_type="8"/>
+	   			<column property="forecastId" name="forecast_id" hid="1833586863" jdbc_type="4"/>
+	   			<column property="growSeasonId" name="grow_season_id" hid="791716785" jdbc_type="4"/>
+	   			<column property="spoilagePercent" name="spoilage_percent" hid="1562517680" jdbc_type="4"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="39297598" jdbc_type="4"/>
+	   			<column property="predecessorId" name="predecessor_id" hid="547886271" jdbc_type="4"/>
+	   			<column property="successorId" name="successor_id" hid="1411810378" jdbc_type="4"/>
+	   			<column property="stockYieldId" name="stock_yield_id" hid="465165726" jdbc_type="4"/>
+	   			<column property="needsToReprocess" name="needs_to_reprocess" hid="1543041518" jdbc_type="4"/>
+	   			<column property="initiatorId" name="initiator_id" hid="1267114747" jdbc_type="4"/>
+	   			<column property="goalSourceId" name="goal_source_id" hid="1433419467" jdbc_type="4"/>
+</table_column>

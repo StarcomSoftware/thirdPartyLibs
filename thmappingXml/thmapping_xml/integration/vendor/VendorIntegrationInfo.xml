@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="vendor_integration" hid="1258520500" class_name="com.starcomsoft.pp.integration.vendor.VendorIntegrationInfo" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1139055649" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="916971626" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1380563978" jdbc_type="4"/>
+	   			<column property="company" name="company" hid="907429099" jdbc_type="12"/>
+	   			<column property="urlLink" name="url_link" hid="335547900" jdbc_type="12"/>
+	   			<column property="userName" name="user_name" hid="367944145" jdbc_type="12"/>
+	   			<column property="password" name="password" hid="367944145" jdbc_type="12"/>
+	   			<column property="domain" name="domain" hid="1139055649" jdbc_type="12"/>
+	   			<column property="type" name="type" hid="2069205182" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="1257287558" jdbc_type="4"/>
+</table_column>

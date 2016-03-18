@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="inventory_audit_detail" hid="646548951" class_name="com.starcomsoft.pp.inventory.InventoryAuditDetail" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="830856434" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="177660127" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1785334043" jdbc_type="4"/>
+	   			<column property="auditId" name="audit_id" hid="1506116332" jdbc_type="4"/>
+	   			<column property="lotType" name="lot_type" hid="1556421689" jdbc_type="4"/>
+	   			<column property="lotId" name="lot_id" hid="935222228" jdbc_type="4"/>
+	   			<column property="lotNumber" name="lot_number" hid="1515723280" jdbc_type="4"/>
+	   			<column property="readyDate" name="ready_date" hid="972908821" jdbc_type="93"/>
+	   			<column property="bucket" name="bucket" hid="935784793" jdbc_type="4"/>
+	   			<column property="previousQuantity" name="previous_quantity" hid="1187060908" jdbc_type="4"/>
+	   			<column property="newQuantity" name="new_quantity" hid="1519997417" jdbc_type="4"/>
+	   			<column property="intendedChange" name="intended_change" hid="246188127" jdbc_type="4"/>
+	   			<column property="sequence" name="sequence" hid="1584543314" jdbc_type="4"/>
+	   			<column property="timestamp" name="timestamp" hid="1435192237" jdbc_type="93"/>
+	   			<column property="expiryDate" name="expiry_date" hid="1188651871" jdbc_type="93"/>
+</table_column>

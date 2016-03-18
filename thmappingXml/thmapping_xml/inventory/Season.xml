@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="season" hid="13380284" class_name="com.starcomsoft.pp.inventory.Season" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1083804049" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1754579110" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1478882278" jdbc_type="4"/>
+	   			<column property="description" name="description" hid="352257984" jdbc_type="12"/>
+	   			<column property="code" name="code" hid="1888779567" jdbc_type="12"/>
+	   			<column property="seasonGroupId" name="season_group_id" hid="2025003157" jdbc_type="4"/>
+	   			<column property="asOfDate" name="as_of_date" hid="1775558849" jdbc_type="93"/>
+</table_column>

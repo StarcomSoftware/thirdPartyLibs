@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="imported_document" hid="82366523" class_name="com.starcomsoft.pp.order.edi.ImportedDocument" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1918247274" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="581405797" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="755040233" jdbc_type="4"/>
+	   			<column property="messageId" name="message_id" hid="2125587842" jdbc_type="4"/>
+	   			<column property="documentType" name="document_type" hid="998675787" jdbc_type="12"/>
+	   			<column property="shipDate" name="ship_date" hid="30945790" jdbc_type="93"/>
+	   			<column property="purchaseOrderNumber" name="purchase_order_number" hid="667679453" jdbc_type="12"/>
+	   			<column property="billToName" name="bill_to_name" hid="373674930" jdbc_type="12"/>
+	   			<column property="vendorNumber" name="vendor_number" hid="942488629" jdbc_type="12"/>
+	   			<column property="shipToId" name="ship_to_id" hid="278625727" jdbc_type="4"/>
+	   			<column property="shipToAddress1" name="ship_to_address1" hid="189041159" jdbc_type="12"/>
+	   			<column property="shipToAddress2" name="ship_to_address2" hid="189041158" jdbc_type="12"/>
+	   			<column property="shipToCity" name="ship_to_city" hid="1093844603" jdbc_type="12"/>
+	   			<column property="shipToState" name="ship_to_state" hid="1254778347" jdbc_type="12"/>
+	   			<column property="shipToZip" name="ship_to_zip" hid="1787334219" jdbc_type="12"/>
+	   			<column property="storeNumber" name="store_number" hid="1881137038" jdbc_type="12"/>
+	   			<column property="memoNumber" name="memo_number" hid="2066598899" jdbc_type="12"/>
+	   			<column property="documentMasterId" name="document_master_id" hid="1318456221" jdbc_type="4"/>
+</table_column>

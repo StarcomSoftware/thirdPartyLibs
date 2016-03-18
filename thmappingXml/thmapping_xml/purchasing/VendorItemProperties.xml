@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="vendor_item_properties" hid="17891133" class_name="com.starcomsoft.pp.purchasing.VendorItemProperties" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1449180728" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="263407017" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1595291973" jdbc_type="4"/>
+	   			<column property="vendorId" name="vendor_id" hid="141838219" jdbc_type="4"/>
+	   			<column property="inventoryItemId" name="inventory_item_id" hid="1830885827" jdbc_type="4"/>
+	   			<column property="packageCodeId" name="package_code_id" hid="996179477" jdbc_type="4"/>
+	   			<column property="extraPercentage" name="extra_percentage" hid="811145684" jdbc_type="8"/>
+	   			<column property="manufacturerId" name="manufacturer_id" hid="403594940" jdbc_type="4"/>
+	   			<column property="statusId" name="status_id" hid="205157701" jdbc_type="4"/>
+	   			<column property="minimumOrderQty" name="minimum_order_qty" hid="930700095" jdbc_type="4"/>
+	   			<column property="priceGroupId" name="price_group_id" hid="1866171558" jdbc_type="4"/>
+	   			<column property="orderLeadDays" name="order_lead_days" hid="423766852" jdbc_type="4"/>
+	   			<column property="deliveryLeadDays" name="delivery_lead_days" hid="1006584556" jdbc_type="4"/>
+	   			<column property="sku" name="sku" hid="157723674" jdbc_type="12"/>
+	   			<column property="substituteSku" name="substitute_sku" hid="2122441081" jdbc_type="12"/>
+	   			<column property="upc1" name="upc1" hid="1419511316" jdbc_type="12"/>
+	   			<column property="upc2" name="upc2" hid="1419511315" jdbc_type="12"/>
+</table_column>

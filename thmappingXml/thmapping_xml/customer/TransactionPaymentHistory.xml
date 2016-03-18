@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="rpt_transaction_payment_history" hid="1076849660" class_name="com.starcomsoft.pp.customer.TransactionPaymentHistory" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1325477585" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="944690842" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1990519002" jdbc_type="4"/>
+	   			<column property="documentId" name="document_id" hid="1085927751" jdbc_type="4"/>
+	   			<column property="paymentDate" name="payment_date" hid="2079315735" jdbc_type="93"/>
+	   			<column property="batchDate" name="batch_date" hid="2139872341" jdbc_type="93"/>
+	   			<column property="paymentType" name="payment_type" hid="2079329307" jdbc_type="12"/>
+	   			<column property="paymentMedia" name="payment_media" hid="1534033233" jdbc_type="12"/>
+	   			<column property="paymentNumber" name="payment_number" hid="921567378" jdbc_type="4"/>
+	   			<column property="amount" name="amount" hid="850661056" jdbc_type="8"/>
+	   			<column property="apply" name="apply" hid="94515710" jdbc_type="8"/>
+	   			<column property="available" name="available" hid="1621739203" jdbc_type="8"/>
+</table_column>

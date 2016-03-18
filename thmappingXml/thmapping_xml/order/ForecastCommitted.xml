@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="forecast_committed" hid="1750503225" class_name="com.starcomsoft.pp.order.ForecastCommitted" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="56839412" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1933171827" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="174074089" jdbc_type="4"/>
+	   			<column property="documentDetailId" name="document_detail_id" hid="1967014516" jdbc_type="4"/>
+	   			<column property="orderQty" name="order_qty" hid="2079505448" jdbc_type="4"/>
+	   			<column property="packageCount" name="package_count" hid="984723605" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="1597223752" jdbc_type="4"/>
+	   			<column property="commitDate" name="commit_date" hid="1304226165" jdbc_type="93"/>
+	   			<column property="itemId" name="item_id" hid="1939285366" jdbc_type="4"/>
+	   			<column property="forecastDetailId" name="forecast_detail_id" hid="1687207212" jdbc_type="4"/>
+	   			<column property="isChangedProduction" name="is_changed_production" hid="1419427442" jdbc_type="4"/>
+</table_column>

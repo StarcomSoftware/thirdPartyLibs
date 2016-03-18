@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="space_level_attribute" hid="429481167" class_name="com.starcomsoft.pp.space.SpaceLevelAttribute" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="428235114" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1920001447" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1399431523" jdbc_type="4"/>
+	   			<column property="spaceLevelId" name="space_level_id" hid="2007457232" jdbc_type="4"/>
+	   			<column property="spaceAttributeId" name="space_attribute_id" hid="678591868" jdbc_type="4"/>
+	   			<column property="attributeRequirementId" name="attribute_requirement_id" hid="1274767639" jdbc_type="4"/>
+</table_column>

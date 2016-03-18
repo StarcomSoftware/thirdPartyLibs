@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="availability_criteria" hid="1787023400" class_name="com.starcomsoft.pp.inventory.AvailabilityCriteria" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1279991619" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="617173862" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="97249486" jdbc_type="4"/>
+	   			<column property="criteriaName" name="criteria_name" hid="876212885" jdbc_type="12"/>
+	   			<column property="customerName" name="customer_name" hid="308778494" jdbc_type="12"/>
+	   			<column property="itemIdString" name="item_id_string" hid="344915257" jdbc_type="-1"/>
+	   			<column property="idType" name="all_items" hid="1871576594" jdbc_type="4"/>
+	   			<column property="facilityIdString" name="facility_id_string" hid="622052185" jdbc_type="12"/>
+	   			<column property="inventoryMethod" name="inventory_method" hid="1480748050" jdbc_type="4"/>
+	   			<column property="availabilityDate" name="availabiilty_date" hid="1666438912" jdbc_type="93"/>
+	   			<column property="seasonGroupId" name="season_group_id" hid="1087618143" jdbc_type="4"/>
+	   			<column property="borderMethod" name="border_method" hid="83839634" jdbc_type="4"/>
+	   			<column property="numberOfTimes" name="number_of_times" hid="77258418" jdbc_type="4"/>
+	   			<column property="customerId" name="customer_id" hid="746152162" jdbc_type="4"/>
+	   			<column property="packageId" name="package_id" hid="669918032" jdbc_type="4"/>
+	   			<column property="packageCount" name="package_count" hid="1256047180" jdbc_type="4"/>
+	   			<column property="priceListId" name="price_list_id" hid="425835266" jdbc_type="4"/>
+	   			<column property="onlyIfSkuUpc" name="only_if_sku_upc" hid="1256019945" jdbc_type="4"/>
+	   			<column property="skuUpc" name="sku_upc" hid="615939906" jdbc_type="4"/>
+	   			<column property="onlyIfGreaterThan" name="only_if_greater_than" hid="578134157" jdbc_type="4"/>
+	   			<column property="greaterOrLessThan" name="greater_or_less_than" hid="996771338" jdbc_type="4"/>
+	   			<column property="greaterThan" name="greater_than" hid="952152268" jdbc_type="4"/>
+	   			<column property="includeComment" name="include_comment" hid="1595418038" jdbc_type="4"/>
+	   			<column property="includePrice" name="include_price" hid="1411872194" jdbc_type="4"/>
+	   			<column property="summarizeBy" name="summarize_by" hid="1229516745" jdbc_type="4"/>
+	   			<column property="showCommitted" name="show_committed" hid="1548937022" jdbc_type="4"/>
+	   			<column property="showPhysicalInventory" name="show_physical_inventory" hid="802977330" jdbc_type="4"/>
+	   			<column property="availabilityUnits" name="availabiity_units" hid="1626900935" jdbc_type="4"/>
+	   			<column property="negativeAsZero" name="negative_as_zero" hid="1293595451" jdbc_type="4"/>
+	   			<column property="outputTo" name="output_to" hid="1772356221" jdbc_type="4"/>
+	   			<column property="headerComments" name="header_comment" hid="102174325" jdbc_type="-1"/>
+	   			<column property="forecastSetId" name="forecast_set_id" hid="1928160926" jdbc_type="4"/>
+	   			<column property="onlyCustomerCommitments" name="only_customer_commitments" hid="753101312" jdbc_type="4"/>
+	   			<column property="onlyByReadyDate" name="only_by_ready_date" hid="2010183523" jdbc_type="4"/>
+	   			<column property="accumulatePriorAvailable" name="accumulate_prior_available" hid="518974887" jdbc_type="4"/>
+	   			<column property="endDate" name="end_date" hid="1182107428" jdbc_type="93"/>
+	   			<column property="calcTooLate" name="calc_too_late" hid="1851222905" jdbc_type="4"/>
+</table_column>

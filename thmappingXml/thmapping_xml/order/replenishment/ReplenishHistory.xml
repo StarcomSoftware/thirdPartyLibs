@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="replenish_history" hid="1405225630" class_name="com.starcomsoft.pp.order.replenishment.ReplenishHistory" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="2140839917" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="676026580" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="641476968" jdbc_type="4"/>
+	   			<column property="replenishProductWeekId" name="replenish_product_week_id" hid="1711486209" jdbc_type="4"/>
+	   			<column property="lyMidSoldQty" name="ly_mid_sold_qty" hid="324032998" jdbc_type="4"/>
+	   			<column property="lyWeSoldQty" name="ly_we_sold_qty" hid="245074596" jdbc_type="4"/>
+	   			<column property="lySellThruPct" name="ly_sell_thru_pct" hid="501403082" jdbc_type="8"/>
+	   			<column property="lySoldAmt" name="ly_sold_amt" hid="873668667" jdbc_type="8"/>
+	   			<column property="lyShipQty" name="ly_ship_qty" hid="877485805" jdbc_type="4"/>
+	   			<column property="avgMidSoldQty" name="avg_mid_sold_qty" hid="739852075" jdbc_type="4"/>
+	   			<column property="avgWeSoldQty" name="avg_we_sold_qty" hid="350353445" jdbc_type="4"/>
+	   			<column property="avgSellThruPct" name="avg_sell_thru_pct" hid="1486434147" jdbc_type="8"/>
+	   			<column property="avgSoldAmt" name="avg_sold_amt" hid="478115530" jdbc_type="8"/>
+	   			<column property="avgShipQty" name="avg_ship_qty" hid="481932668" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="shipping_container" hid="713492527" class_name="com.starcomsoft.pp.order.ShippingContainer" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1958320884" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="801789003" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1963225455" jdbc_type="4"/>
+	   			<column property="shippingCode" name="shipping_code" hid="725573051" jdbc_type="12"/>
+	   			<column property="isAdjustable" name="is_adjustable" hid="1581301681" jdbc_type="4"/>
+	   			<column property="height" name="height" hid="1998796256" jdbc_type="8"/>
+	   			<column property="shelfCount" name="shelf_count" hid="506476159" jdbc_type="4"/>
+	   			<column property="restrictedShelf" name="restricted_shelf" hid="719501705" jdbc_type="4"/>
+	   			<column property="restrictedHeight" name="restricted_height" hid="2115085824" jdbc_type="4"/>
+	   			<column property="reportColumn" name="report_column" hid="490856736" jdbc_type="4"/>
+	   			<column property="adjustIncrement" name="adjust_increment" hid="588016754" jdbc_type="4"/>
+	   			<column property="size" name="size" hid="289789454" jdbc_type="8"/>
+	   			<column property="weight" name="weight" hid="1997910521" jdbc_type="8"/>
+</table_column>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="report_layout" hid="1357875988" class_name="com.starcomsoft.pp.report.ReportLayout" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1681195713" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="940613622" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="109360746" jdbc_type="4"/>
+	   			<column property="reportId" name="report_id" hid="946284508" jdbc_type="4"/>
+	   			<column property="name" name="name" hid="1262096235" jdbc_type="12"/>
+	   			<column property="fileName" name="file_name" hid="446010644" jdbc_type="12"/>
+	   			<column property="uri" name="uri" hid="2049106564" jdbc_type="12"/>
+	   			<column property="description" name="description" hid="2135475824" jdbc_type="12"/>
+	   			<column property="systemDefault" name="system_default" hid="1553406219" jdbc_type="4"/>
+	   			<column property="userId" name="user_id" hid="940405273" jdbc_type="4"/>
+	   			<column property="updateDate" name="update_date" hid="593362700" jdbc_type="93"/>
+	   			<column property="groupBy" name="group_by" hid="59415987" jdbc_type="4"/>
+</table_column>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="document_master" hid="2122485395" class_name="com.starcomsoft.pp.ar.Payment" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	<super_class>DocumentMaster</super_class>
+	   			<column property="checkCreditCardNumber" name="check_credit_card_number" hid="495262618" jdbc_type="12"/>
+	   			<column property="memoId" name="memo_id" hid="486779287" jdbc_type="4"/>
+	   			<column property="customerReference" name="customer_reference" hid="2008286709" jdbc_type="12"/>
+	   			<column property="paymentMethod" name="payment_method" hid="507752347" jdbc_type="4"/>
+	   			<column property="paymentSourceId" name="payment_source_id" hid="1091436191" jdbc_type="4"/>
+	   			<column property="batchDate" name="batch_date" hid="1731451988" jdbc_type="93"/>
+	   			<column property="hasMultipleBillTos" name="has_multiple_bill_tos" hid="71280723" jdbc_type="4"/>
+</table_column>

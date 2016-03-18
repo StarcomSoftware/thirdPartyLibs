@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="production_item_properties" hid="1635193252" class_name="com.starcomsoft.pp.production.ProductionItemProperties" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="693333809" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1047631354" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="180330362" jdbc_type="4"/>
+	   			<column property="productionItemId" name="production_item_id" hid="1762351587" jdbc_type="4"/>
+	   			<column property="plantingGroupId" name="planting_group_id" hid="1687971161" jdbc_type="4"/>
+	   			<column property="machineTypeId" name="machine_type_id" hid="1292998026" jdbc_type="4"/>
+	   			<column property="plantingSequence" name="planting_sequence" hid="1738569297" jdbc_type="4"/>
+	   			<column property="productionInventoryUnitId" name="production_inventory_unit_id" hid="1983445773" jdbc_type="4"/>
+	   			<column property="noteId" name="note_id" hid="1043972358" jdbc_type="4"/>
+	   			<column property="spaceGroupId" name="space_group_id" hid="937243424" jdbc_type="4"/>
+	   			<column property="activeStatusId" name="active_status_id" hid="232399415" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="634171691" jdbc_type="4"/>
+</table_column>

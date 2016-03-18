@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="availability_buffer" hid="190077833" class_name="com.starcomsoft.pp.inventory.AvailabilityBuffer" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1783565756" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="889070013" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="1080394777" jdbc_type="4"/>
+	   			<column property="facilityId" name="facility_id" hid="1573044360" jdbc_type="4"/>
+	   			<column property="itemCategoryId" name="item_category_id" hid="1899410335" jdbc_type="4"/>
+	   			<column property="readyDate" name="ready_date" hid="2046144743" jdbc_type="93"/>
+	   			<column property="bufferPercent" name="buffer_percent" hid="910938063" jdbc_type="4"/>
+</table_column>

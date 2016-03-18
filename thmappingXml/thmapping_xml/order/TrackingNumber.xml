@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Generated FILE - DO NOT EDIT  -->
+<!-- Template: 3ServerTransaction.ftl  -->
+<!-- All elements are required except the superclass element is optional -->
+<table_column name="tracking_number" hid="1551768070" class_name="com.starcomsoft.pp.order.TrackingNumber" xmlns="http://starcomsoft.com/pp/thmapping/xmlmeta">
+	   			<column property="id" name="id" hid="1139163131" jdbc_type="4"/>
+	   			<column property="version" name="version" hid="1326258348" jdbc_type="4"/>
+	   			<column property="recordStatus" name="record_status" hid="278760384" jdbc_type="4"/>
+	   			<column property="documentMasterId" name="document_master_id" hid="915506828" jdbc_type="4"/>
+	   			<column property="documentNumber" name="document_number" hid="635220037" jdbc_type="4"/>
+	   			<column property="trackingNumber" name="tracking_number" hid="14320769" jdbc_type="12"/>
+</table_column>
